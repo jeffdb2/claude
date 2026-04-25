@@ -1,0 +1,1737 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - navigation "Menú de métodos abreviados" [ref=e5]:
+          - heading "Pular para" [level=2]
+          - list "Pular para" [ref=e6]:
+            - listitem:
+              - link "Pular para o conteúdo" [ref=e7] [cursor=pointer]:
+                - /url: "#root-app"
+            - listitem:
+              - link "Comentar sobre acessibilidade" [ref=e8] [cursor=pointer]:
+                - /url: https://www.mercadolivre.com.br/acessibilidade/feedback
+          - separator [ref=e9]
+          - heading "Atalhos do teclado" [level=2]
+          - list "Atalhos do teclado" [ref=e10]:
+            - listitem:
+              - link "Buscar /" [ref=e11] [cursor=pointer]:
+                - /url: "#cb1-edit"
+                - generic:
+                  - generic: Buscar
+                  - generic [ref=e13]: /
+            - listitem:
+              - link "Minhas compras P" [ref=e14] [cursor=pointer]:
+                - /url: https://myaccount.mercadolivre.com.br/purchases/list
+                - generic:
+                  - generic: Minhas compras
+                  - generic [ref=e16]: P
+            - listitem:
+              - link "Carrinho C" [ref=e17] [cursor=pointer]:
+                - /url: https://www.mercadolivre.com.br/gz/cart/v2
+                - generic:
+                  - generic: Carrinho
+                  - generic [ref=e19]: C
+            - listitem:
+              - link "Abrir/fechar o menu de atalhos Z" [ref=e20] [cursor=pointer]:
+                - /url: "#"
+                - generic:
+                  - generic: Abrir/fechar o menu de atalhos
+                  - generic [ref=e22]: Z
+          - generic [ref=e25]: Para navegar entre os elementos, use as setas para cima ou para baixo do teclado.
+        - link "Mercado Livre Brasil - Onde comprar e vender de Tudo" [ref=e26] [cursor=pointer]:
+          - /url: //www.mercadolivre.com.br
+      - search [ref=e28]:
+        - generic [ref=e29]: Digite o que você quer encontrar
+        - combobox "Digite o que você quer encontrar" [ref=e30]
+        - button "Buscar" [ref=e31] [cursor=pointer]:
+          - img "Buscar" [ref=e32]: 
+        - text: Lojas oficiais
+      - link "Meli+ Mega. Netflix. disney plus, HBOMax e Apple tv. Por apenas R$ 74,90 por mês. 120% do CDI em cofrinhos + Cashback com Mercado Pago. Consulte termos e condições." [ref=e34] [cursor=pointer]:
+        - /url: https://www.mercadolivre.com.br/assinaturas/melimais/planes#origin=bannermenu-acq-cdi_e_cashback&me.audience=all&me.bu=3&me.bu_line=26&me.component_id=banner_menu_web_ml&me.content_id=BM_SOV_LOYALTY_ACQ_MEGACASHBACKMP_1504&me.flow=-1&me.logic=user_journey&me.position=0
+        - img "Meli+ Mega. Netflix. disney plus, HBOMax e Apple tv. Por apenas R$ 74,90 por mês. 120% do CDI em cofrinhos + Cashback com Mercado Pago. Consulte termos e condições." [ref=e35]
+      - button " Enviar para Cotia 06703115" [ref=e38] [cursor=pointer]:
+        - text: 
+        - generic [ref=e39]: Enviar para
+        - generic [ref=e40]: Cotia 06703115
+      - list [ref=e43]:
+        - listitem [ref=e44]:
+          - button "Categorias" [ref=e45] [cursor=pointer]
+        - listitem [ref=e46]:
+          - link "Ofertas" [ref=e47] [cursor=pointer]:
+            - /url: https://www.mercadolivre.com.br/ofertas#nav-header
+        - listitem [ref=e48]:
+          - link "Cupons" [ref=e49] [cursor=pointer]:
+            - /url: https://www.mercadolivre.com.br/cupons?source_page=mperfil#nav-header
+        - listitem [ref=e50]:
+          - link "Supermercado" [ref=e51] [cursor=pointer]:
+            - /url: https://www.mercadolivre.com.br/ofertas/supermercado#nav-header
+        - listitem [ref=e52]:
+          - link "Vender" [ref=e53] [cursor=pointer]:
+            - /url: https://www.mercadolivre.com.br/syi/core/list#nav-header
+        - listitem [ref=e54]:
+          - link "Contato" [ref=e55] [cursor=pointer]:
+            - /url: https://www.mercadolivre.com.br/ajuda#nav-header
+      - generic [ref=e56]:
+        - navigation "Menu do usuário" [ref=e57]:
+          - list [ref=e58]:
+            - listitem [ref=e59]:
+              - link "Crie a sua conta" [ref=e60] [cursor=pointer]:
+                - /url: https://www.mercadolivre.com.br/registration?confirmation_url=https%3A%2F%2Fwww.mercadolivre.com.br%2F#nav-header
+            - listitem [ref=e61]:
+              - link "Entre" [ref=e62] [cursor=pointer]:
+                - /url: https://www.mercadolivre.com/jms/mlb/lgz/login?platform_id=ML&go=https%3A%2F%2Fwww.mercadolivre.com.br%2F&loginType=explicit&client_id=6280072776285528#nav-header
+            - listitem [ref=e63]:
+              - link "Compras" [ref=e64] [cursor=pointer]:
+                - /url: https://myaccount.mercadolivre.com.br/purchases/list#nav-header
+        - link "0 produtos em seu carrinho" [ref=e65] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/gz/cart/v2
+          - generic [ref=e66]: 
+          - generic [ref=e67]: 0 produtos em seu carrinho
+  - main [ref=e68]:
+    - generic [ref=e69]:
+      - heading "Mercado Livre" [level=1] [ref=e70]
+      - generic [ref=e71]:
+        - region "novidades principais" [ref=e73]:
+          - generic [ref=e74]:
+            - button "Anterior" [ref=e75] [cursor=pointer]:
+              - img [ref=e76]
+            - generic [ref=e79]:
+              - group [ref=e80]:
+                - link [ref=e81] [cursor=pointer]:
+                  - /url: https://click1.mercadolivre.com.br/display/clicks/MLB/count?a=pj%2FgsrU1XOVZmLvpJUNsQvR3aM%2BGb3Ji5Ufrb3JY%2BpxIDX%2F8aQTiksZn%2FK1DJ4GsyOAIs298Su07X%2BM24vazK%2FMLEvV1X2sB2XcmlDvrxKupuZhiR8OQT1ZcITDwe%2B8bUMFAdwbvsSloBQWDm8uCLCBhzyU71r0guGALgPpcJ3qWJvf%2BAK04%2FHGs1bkkz4jNl3tA6kcclIH9N3zZx%2BESj1DZsQFSch%2BKBpEEzd9cRSeDUsOiUJZL7u6WoEXuN8fBDcfLL509iY4dy6lfvmzMfPRqNIaoj6UWstn1uc5xy7zRzWYPpQkkflfo1IQHFfA4pZ5vzem1QkukRI2NO9LCBvSDKYpO8bgTZ92rzsTuMGL0MX9l%2FITfzq8GG%2Bf0wJLzJ%2Fgnv%2B%2B0ztgi4y6R6kxRs%2BEdbmxOrwa3xTUq9FnGyqzuqhtgeH8Qiz274Ny53lFb%2BodYiOQlQWFsM3OvQfwUTMjpTmxMSFAVnqDIoi9N2Rjj%2FY3jIWc6r1h1%2FaQNT7G92PkfcXvDxNmSXX615mVfeiT1Ii7B6I4AQythjdP%2ByBwWiDS4ayy36NzfDpTwJAeSvbgGGM%2BXXHfaLFWurQbVfb4w3BmrtCmwUQipgSE6KlenfaYANfGGv7vmwjNiNfuOij2k84nYuu2uvBgpT2gEWrrj9BHy0%2FLl3gQjUEfAfqsKk9BZ0mD2HVoCJ8JvJZnP18jSCP928s16fdknfJb%2F62wUbRhUxUZrpUU%2FwIJFxWDBSVUvoMpWrhu00xMbKiiciNml%2F%2F5o6AqEYsTDO4QNvyiVqXdiHDS9Hbh2885k#c_id=/home/exhibitors-carousel/element&c_campaign=display%2Fclicks%2FMLB%2Fcount&c_element_order=7&c_uid=3d5fd7ff-6a59-4daf-b772-581f96dfe122
+                  - img [ref=e82]
+              - group "1 de 7" [ref=e83]:
+                - link "5.5. dia das mães. Até 70% off. Consulte termos e condições." [ref=e84] [cursor=pointer]:
+                  - /url: https://click1.mercadolivre.com.br/display/clicks/MLB/count?a=UNr6CQmjyvkB64JOmG6HrlmNqf0J3qgehuscM%2B0%2F6EJAN%2BF91PCjhhYdQPdJGjgA6rCyD7l6EtCj6rJ1576kxOZsQ0yfED9IVbrl9fkD8dW9H0zC0vJCGtlzzJIMRs0EtN2JBmHJ%2F1pR9dX6Xawx1PWYFVPpsc9FYa2qnx0hAbPxFbjLN82yxnLchwgyI1MBDOT2I0r%2FSXbCasnNdd6%2FA8sV6UkuRdnMMmh%2B%2BZXZWEyy5GEveHOqjO34sdmMZln8OePOMN8MhkBHOBaZsXnEM2L79W%2FJBsK0qVdfRxNZo0k5XJEyX%2BJQi%2BXSW6mx1qPfX3w0KWUS33ZWVpKZmAGoJDEIMkKTpF%2FTK7xHTVS08nOpM5AA%2BnQSf8DLrKEWwi9TDVBVCtoA6TU1SVtyhV%2Bsxu7RB5VqEjkoGyEd967i%2FuR7wLAJ4cLNl8BcD66PutTHGZIuk%2BuQ74%2B5%2FPBcmocIqRz4yIPQ8juwXWFBp1HabZWDMILT%2Bfaja%2FDKHTGlCrd%2BU2jF9CDNwPCvmkjVJqzVjHm6pE6obEe%2Bh1JmiS%2BUmdXJtxk8RwXKe5TfLxa2cBDt5ZlAJNszZS3E9hPJEoOrObp9XbkXeViT15ohzt0HI%2BUxrSDk3YU1BV%2Fk45BAWVGJVsFahRvXLYF4sEnTSSLYxyEKJEWiAncTB%2FHs2lba%2BxuJKPqoTARmvSdyXR0%2FkwDDFAom4J7DHvQwF2vjYsYJOjPHPDi4tGNqD%2FSkzjFg%2BcSQc0vie0WDQy2D%2FVIb#c_id=/home/exhibitors-carousel/element&c_campaign=display%2Fclicks%2FMLB%2Fcount&c_element_order=1&c_uid=c9a4858d-83c1-45d2-b7bd-6658935adfaf
+                  - img "5.5. dia das mães. Até 70% off. Consulte termos e condições." [ref=e85]
+              - group [ref=e86]:
+                - link [ref=e87] [cursor=pointer]:
+                  - /url: https://click1.mercadolivre.com.br/display/clicks/MLB/count?a=Ak9uRpQCqqRe%2B0C6ggjbOunleoX8P5rKxK1BQ7cEpz7LNhXrxpQYlKxd9t1cWKYnDQpgrNXygRDrFYjg66ETVUBNu9SFzd6%2FSJY7X0vn%2B%2FHe5gbWFd4mAYNfEQxCheZu0W%2FHDDMM2Ez0wXdNH%2B6N2L1sCZ3HkHc9WYZD5H9aFKygmlYTBjj5Vp543W16MOWAEmkatkoPu6IFWx0aBBLqT3WRi8zj%2FUDRPItzC%2B7AQTI7E0A0nZMmhNxU8ZMu9VKE2vOA80R2b5ZZiNKv9faa%2B75Epoxqb6i9GJBH1JTWsyVDCjLS0BEpijfylmdkQjnEjoDHdOs3%2FNBABho7LICKE6u5EG5yUr%2FjijdUtzeGmng4JS9IU3ipRq1e9nGFnyLYeP0K1xmlF2vklf00rxZX%2BMfYYnsaaQC1FHe0tTG3WvjGfiuLojlUH0pNjrrT1K2mtSbv26cOBw0mQCiO5x7f26AnOkXMVwbCtcIgpy67qoR48BLp%2BBImTNRbiPdVFa0WEh0i0uVkJGudU15zMzcTVqivtzQg3GJ0HosoHgpagtu2BQ1eTzPrrXEvQRly5dsBRvfCP5yl%2FxUTO39bc9%2B4%2FrbkGW4X4XVDgrP2tHEZdCk4oVqmjM5MZiJUx1de%2BfYLZ7uUZzZlrdmSJueM2OlwIHj07yegSYRhZTXyx6zDsIDSvGwmBsfzaz3OwWU72wN%2BCO4vvpybNL1%2BsxWxKs6PXV5VC5liMzw82HIoKsbyNYOAr7Iq6DIRXyUUGXBRn11W4ctet55oIszvyXaYhIk%3D#c_id=/home/exhibitors-carousel/element&c_campaign=display%2Fclicks%2FMLB%2Fcount&c_element_order=2&c_uid=4b9e4c82-b1e4-4095-b424-4efe1880e2c2
+                  - img [ref=e88]
+              - group [ref=e89]
+              - group [ref=e90]
+              - group [ref=e91]
+              - group [ref=e92]
+              - group [ref=e93]:
+                - link [ref=e94] [cursor=pointer]:
+                  - /url: https://click1.mercadolivre.com.br/display/clicks/MLB/count?a=pj%2FgsrU1XOVZmLvpJUNsQvR3aM%2BGb3Ji5Ufrb3JY%2BpxIDX%2F8aQTiksZn%2FK1DJ4GsyOAIs298Su07X%2BM24vazK%2FMLEvV1X2sB2XcmlDvrxKupuZhiR8OQT1ZcITDwe%2B8bUMFAdwbvsSloBQWDm8uCLCBhzyU71r0guGALgPpcJ3qWJvf%2BAK04%2FHGs1bkkz4jNl3tA6kcclIH9N3zZx%2BESj1DZsQFSch%2BKBpEEzd9cRSeDUsOiUJZL7u6WoEXuN8fBDcfLL509iY4dy6lfvmzMfPRqNIaoj6UWstn1uc5xy7zRzWYPpQkkflfo1IQHFfA4pZ5vzem1QkukRI2NO9LCBvSDKYpO8bgTZ92rzsTuMGL0MX9l%2FITfzq8GG%2Bf0wJLzJ%2Fgnv%2B%2B0ztgi4y6R6kxRs%2BEdbmxOrwa3xTUq9FnGyqzuqhtgeH8Qiz274Ny53lFb%2BodYiOQlQWFsM3OvQfwUTMjpTmxMSFAVnqDIoi9N2Rjj%2FY3jIWc6r1h1%2FaQNT7G92PkfcXvDxNmSXX615mVfeiT1Ii7B6I4AQythjdP%2ByBwWiDS4ayy36NzfDpTwJAeSvbgGGM%2BXXHfaLFWurQbVfb4w3BmrtCmwUQipgSE6KlenfaYANfGGv7vmwjNiNfuOij2k84nYuu2uvBgpT2gEWrrj9BHy0%2FLl3gQjUEfAfqsKk9BZ0mD2HVoCJ8JvJZnP18jSCP928s16fdknfJb%2F62wUbRhUxUZrpUU%2FwIJFxWDBSVUvoMpWrhu00xMbKiiciNml%2F%2F5o6AqEYsTDO4QNvyiVqXdiHDS9Hbh2885k#c_id=/home/exhibitors-carousel/element&c_campaign=display%2Fclicks%2FMLB%2Fcount&c_element_order=7&c_uid=3d5fd7ff-6a59-4daf-b772-581f96dfe122
+                  - img [ref=e95]
+              - group [ref=e96]:
+                - link [ref=e97] [cursor=pointer]:
+                  - /url: https://click1.mercadolivre.com.br/display/clicks/MLB/count?a=UNr6CQmjyvkB64JOmG6HrlmNqf0J3qgehuscM%2B0%2F6EJAN%2BF91PCjhhYdQPdJGjgA6rCyD7l6EtCj6rJ1576kxOZsQ0yfED9IVbrl9fkD8dW9H0zC0vJCGtlzzJIMRs0EtN2JBmHJ%2F1pR9dX6Xawx1PWYFVPpsc9FYa2qnx0hAbPxFbjLN82yxnLchwgyI1MBDOT2I0r%2FSXbCasnNdd6%2FA8sV6UkuRdnMMmh%2B%2BZXZWEyy5GEveHOqjO34sdmMZln8OePOMN8MhkBHOBaZsXnEM2L79W%2FJBsK0qVdfRxNZo0k5XJEyX%2BJQi%2BXSW6mx1qPfX3w0KWUS33ZWVpKZmAGoJDEIMkKTpF%2FTK7xHTVS08nOpM5AA%2BnQSf8DLrKEWwi9TDVBVCtoA6TU1SVtyhV%2Bsxu7RB5VqEjkoGyEd967i%2FuR7wLAJ4cLNl8BcD66PutTHGZIuk%2BuQ74%2B5%2FPBcmocIqRz4yIPQ8juwXWFBp1HabZWDMILT%2Bfaja%2FDKHTGlCrd%2BU2jF9CDNwPCvmkjVJqzVjHm6pE6obEe%2Bh1JmiS%2BUmdXJtxk8RwXKe5TfLxa2cBDt5ZlAJNszZS3E9hPJEoOrObp9XbkXeViT15ohzt0HI%2BUxrSDk3YU1BV%2Fk45BAWVGJVsFahRvXLYF4sEnTSSLYxyEKJEWiAncTB%2FHs2lba%2BxuJKPqoTARmvSdyXR0%2FkwDDFAom4J7DHvQwF2vjYsYJOjPHPDi4tGNqD%2FSkzjFg%2BcSQc0vie0WDQy2D%2FVIb#c_id=/home/exhibitors-carousel/element&c_campaign=display%2Fclicks%2FMLB%2Fcount&c_element_order=1&c_uid=c9a4858d-83c1-45d2-b7bd-6658935adfaf
+                  - img [ref=e98]
+            - button "Seguinte" [ref=e99] [cursor=pointer]:
+              - img [ref=e100]
+          - list [ref=e102]:
+            - listitem [ref=e103]:
+              - button [ref=e104]:
+                - generic [ref=e105]: Página 1
+            - listitem [ref=e106]:
+              - button [ref=e107]:
+                - generic [ref=e108]: Página 2
+            - listitem [ref=e109]:
+              - button [ref=e110]:
+                - generic [ref=e111]: Página 3
+            - listitem [ref=e112]:
+              - button [ref=e113]:
+                - generic [ref=e114]: Página 4
+            - listitem [ref=e115]:
+              - button [ref=e116]:
+                - generic [ref=e117]: Página 5
+            - listitem [ref=e118]:
+              - button [ref=e119]:
+                - generic [ref=e120]: Página 6
+            - listitem [ref=e121]:
+              - button [ref=e122]:
+                - generic [ref=e123]: Página 7
+        - region "Seus acessos dinâmicos" [ref=e128]:
+          - generic [ref=e129]:
+            - button "Anterior" [disabled] [ref=e130]:
+              - img [ref=e131]
+            - generic [ref=e134]:
+              - group "1 de 8" [ref=e135]:
+                - generic [ref=e138] [cursor=pointer]:
+                  - heading "Frete grátis" [level=2] [ref=e140]
+                  - img [ref=e142]
+                  - generic [ref=e144]: Benefício por ser sua primeira compra.
+                  - link "Mostrar produtos Frete grátis" [ref=e146]:
+                    - /url: https://www.mercadolivre.com.br/ofertas/frete-gratis#da_id=free_shipping_new_buyer&da_position=0&id_origin=/home/dynamic_access&da_sort_algorithm=static
+                    - text: Mostrar produtos
+                    - generic [ref=e147]: Frete grátis
+              - group "2 de 8" [ref=e148]:
+                - generic [ref=e151] [cursor=pointer]:
+                  - heading "Entre na sua conta" [level=2] [ref=e153]
+                  - img [ref=e155]
+                  - generic [ref=e157]: Aproveite ofertas para comprar tudo que quiser.
+                  - link "Entrar na sua conta Entre na sua conta" [ref=e159]:
+                    - /url: https://www.mercadolibre.com/jms/mlb/lgz/msl/login?site_id=MLB#da_id=registration&da_position=1&id_origin=/home/dynamic_access&da_sort_algorithm=static
+                    - text: Entrar na sua conta
+                    - generic [ref=e160]: Entre na sua conta
+              - group "3 de 8" [ref=e161]:
+                - generic [ref=e164] [cursor=pointer]:
+                  - heading "Meios de pagamento" [level=2] [ref=e166]
+                  - img [ref=e168]
+                  - generic [ref=e170]: Pague suas compras com rapidez e segurança.
+                  - button "Mostrar meios Meios de pagamento" [ref=e172]:
+                    - generic [ref=e173]:
+                      - text: Mostrar meios
+                      - generic [ref=e174]: Meios de pagamento
+              - group "4 de 8" [ref=e175]:
+                - generic [ref=e178] [cursor=pointer]:
+                  - heading "Menos de R$100" [level=2] [ref=e180]
+                  - img [ref=e182]
+                  - generic [ref=e184]: Confira produtos com preços baixos.
+                  - link "Mostrar produtos Menos de R$100" [ref=e186]:
+                    - /url: https://www.mercadolivre.com.br/ofertas?price=0.0-100.0&container_id=MLB779362-1&search_mode=collapsed&cart_mode=default&navigationcp_mode=default&bar_left_button_style=back&back_action=close&authentication_mode=optional&webkit-engine=2#da_id=low_price_products&da_position=3&id_origin=/home/dynamic_access&da_sort_algorithm=static
+                    - text: Mostrar produtos
+                    - generic [ref=e187]: Menos de R$100
+              - group "5 de 8" [ref=e188]:
+                - generic [ref=e191] [cursor=pointer]:
+                  - heading "Mais vendidos" [level=2] [ref=e193]
+                  - img [ref=e195]
+                  - generic [ref=e197]: Explore os produtos que são tendência.
+                  - link "Ir para Mais vendidos Mais vendidos" [ref=e199]:
+                    - /url: https://www.mercadolivre.com.br/mais-vendidos#da_id=top_sales&da_position=4&id_origin=/home/dynamic_access&da_sort_algorithm=static
+                    - text: Ir para Mais vendidos
+                    - generic [ref=e200]: Mais vendidos
+              - group [ref=e201]:
+                - generic [ref=e204] [cursor=pointer]:
+                  - heading [level=2] [ref=e206]: Compra garantida
+                  - img [ref=e208]
+                  - generic [ref=e210]: Você pode devolver sua compra grátis.
+                  - link [ref=e212]:
+                    - /url: https://www.mercadolivre.com.br/compra-garantida/#da_id=protected_buy&da_position=5&id_origin=/home/dynamic_access&da_sort_algorithm=static
+                    - text: Como funciona
+                    - generic [ref=e213]: Compra garantida
+              - group [ref=e214]:
+                - generic [ref=e217] [cursor=pointer]:
+                  - heading [level=2] [ref=e219]: Lojas oficiais
+                  - img [ref=e221]
+                  - generic [ref=e223]: Suas marcas preferidas.
+                  - link [ref=e225]:
+                    - /url: https://www.mercadolivre.com.br/l/lojas-oficiais#da_id=official_stores&da_position=6&id_origin=/home/dynamic_access&da_sort_algorithm=static
+                    - text: Mostrar lojas
+                    - generic [ref=e226]: Lojas oficiais
+              - group [ref=e227]:
+                - generic [ref=e230] [cursor=pointer]:
+                  - heading [level=2] [ref=e232]: Nossas categorias
+                  - img [ref=e234]
+                  - generic [ref=e236]: Encontre celulares, roupas, imóveis e muito mais.
+                  - link [ref=e238]:
+                    - /url: https://www.mercadolivre.com.br/categorias#da_id=categories&da_position=7&id_origin=/home/dynamic_access&da_sort_algorithm=static
+                    - text: Ir para Categorias
+                    - generic [ref=e239]: Nossas categorias
+            - button "Seguinte" [ref=e240] [cursor=pointer]:
+              - img [ref=e241]
+        - generic [ref=e244]:
+          - generic [ref=e249]:
+            - heading "Oferta do dia" [level=2] [ref=e253]
+            - region "Oferta do dia" [ref=e254]:
+              - generic [ref=e255]:
+                - button "Anterior" [disabled] [ref=e256]:
+                  - img [ref=e257]
+                - group "1 de 1" [ref=e261]:
+                  - generic [ref=e262]:
+                    - img [ref=e265]
+                    - generic [ref=e266]:
+                      - link "Kit Cobre Leito Colcha Cama Queen 240x260 Dupla Face Jogo" [ref=e267] [cursor=pointer]:
+                        - /url: https://produto.mercadolivre.com.br/MLB-3247472015-kit-cobre-leito-colcha-cama-queen-240x260-dupla-face-jogo-_JM#polycard_client=recommendations_home-deal-of-the-day&reco_backend=deal-of-the-day-model-odin&reco_client=home-deal-of-the-day&reco_item_pos=0&reco_backend_type=low_level&reco_id=6e5fd41c-785b-4f34-b4b4-67e6c554d1fe&c_id=/home/today-promotions-recommendations/element&c_uid=66e3ae54-7d90-448d-9241-72c6022216b4
+                      - generic [ref=e268]:
+                        - 'img "Antes: 159 reais com 99 centavos" [ref=e269]':
+                          - generic [ref=e270]: R$
+                          - generic [ref=e271]: "159"
+                          - generic [ref=e272]: ","
+                          - generic [ref=e273]: "99"
+                        - generic [ref=e274]:
+                          - 'img "Agora: 73 reais com 17 centavos" [ref=e275]':
+                            - generic [ref=e276]: R$
+                            - generic [ref=e277]: "73"
+                            - generic [ref=e278]: ","
+                            - generic [ref=e279]: "17"
+                          - generic [ref=e280]: 54% OFF
+                      - generic [ref=e281]: Frete grátispor ser sua primeira compra
+                - button "Seguinte" [disabled] [ref=e282]:
+                  - img [ref=e283]
+          - generic [ref=e289]:
+            - generic [ref=e291]:
+              - heading "Ofertas" [level=2] [ref=e293]
+              - link "Mostrar todas as ofertas Ofertas" [ref=e295] [cursor=pointer]:
+                - /url: https://www.mercadolivre.com.br/ofertas#c_id=/home/promotions-recommendations&c_uid=49e826ed-e656-4d8e-ad4c-8ebc809756f3
+                - text: Mostrar todas as ofertas
+                - generic [ref=e296]: Ofertas
+            - region "Ofertas" [ref=e297]:
+              - list [ref=e298]:
+                - listitem [ref=e299]:
+                  - button [ref=e300]:
+                    - generic [ref=e301]: Página 1
+                - listitem [ref=e302]:
+                  - button [ref=e303]:
+                    - generic [ref=e304]: Página 2
+                - listitem [ref=e305]:
+                  - button [ref=e306]:
+                    - generic [ref=e307]: Página 3
+                - listitem [ref=e308]:
+                  - button [ref=e309]:
+                    - generic [ref=e310]: Página 4
+                - listitem [ref=e311]:
+                  - button [ref=e312]:
+                    - generic [ref=e313]: Página 5
+                - listitem [ref=e314]:
+                  - button [ref=e315]:
+                    - generic [ref=e316]: Página 6
+              - generic [ref=e317]:
+                - button "Anterior" [disabled] [ref=e318]:
+                  - img [ref=e319]
+                - generic [ref=e322]:
+                  - group "1 de 23" [ref=e323]:
+                    - generic [ref=e324]:
+                      - img [ref=e327]
+                      - generic [ref=e328]:
+                        - link "Kit 3 Calças Jeans Masculina Premium Skinny Tradicional Nf" [ref=e329] [cursor=pointer]:
+                          - /url: https://produto.mercadolivre.com.br/MLB-5710100650-kit-3-calcas-jeans-masculina-premium-skinny-tradicional-nf-_JM?searchVariation=190819809737#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&reco_client=home-deals&reco_item_pos=0&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&c_id=/home/promotions-recommendations/element&c_uid=f4c0507e-b66b-434e-95b7-20c8d8fbe6b8
+                        - generic [ref=e330]:
+                          - 'img "Antes: 189 reais com 99 centavos" [ref=e331]':
+                            - generic [ref=e332]: R$
+                            - generic [ref=e333]: "189"
+                            - generic [ref=e334]: ","
+                            - generic [ref=e335]: "99"
+                          - generic [ref=e336]:
+                            - 'img "Agora: 115 reais com 90 centavos" [ref=e337]':
+                              - generic [ref=e338]: R$
+                              - generic [ref=e339]: "115"
+                              - generic [ref=e340]: ","
+                              - generic [ref=e341]: "90"
+                            - generic [ref=e342]: 39% OFF
+                        - generic [ref=e343]: Frete grátispor ser sua primeira compra
+                  - group "2 de 23" [ref=e344]:
+                    - generic [ref=e345]:
+                      - img [ref=e348]
+                      - generic [ref=e349]:
+                        - link "Smart Tv Philips 32 Hd 32phg6910/78 Wi-fi" [ref=e350] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/smart-tv-philips-32-hd-32phg691078-wi-fi/p/MLB59323696#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB4615085525&reco_client=home-deals&reco_item_pos=2&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=0262ad52-4c94-4dbd-8a7c-06980af5ea7b
+                        - generic [ref=e351]:
+                          - 'img "Antes: 1399 reais" [ref=e352]':
+                            - generic [ref=e353]: R$
+                            - generic [ref=e354]: "1.399"
+                          - generic [ref=e355]:
+                            - 'img "Agora: 890 reais com 01 centavo" [ref=e356]':
+                              - generic [ref=e357]: R$
+                              - generic [ref=e358]: "890"
+                              - generic [ref=e359]: ","
+                              - generic [ref=e360]: "01"
+                            - generic [ref=e361]: 36% OFF no Pix
+                          - generic [ref=e362]:
+                            - text: ou
+                            - img "957 reais" [ref=e364]:
+                              - generic [ref=e366]: R$
+                              - generic [ref=e367]: "957"
+                            - text: em 10x
+                            - img "95 reais com 70 centavos" [ref=e368]:
+                              - generic [ref=e370]: R$
+                              - generic [ref=e371]: "95"
+                              - generic [ref=e372]: ","
+                              - generic [ref=e373]: "70"
+                            - text: sem juros
+                        - generic [ref=e374]: Frete grátispor ser sua primeira compra
+                  - group "3 de 23" [ref=e375]:
+                    - generic [ref=e376]:
+                      - img [ref=e379]
+                      - generic [ref=e380]:
+                        - link "Estação De Musculação De 45kg Wct Fitness Cor Da Estrutura Preto Cor Do Estofamento Preto E Vermelho" [ref=e381] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/estaco-de-musculaco-de-45kg-wct-fitness-cor-da-estrutura-preto-cor-do-estofamento-preto-e-vermelho/p/MLB24423814#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB3373088145&reco_client=home-deals&reco_item_pos=3&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=95a1905b-743b-4f74-8918-2169d4a12053
+                        - generic [ref=e382]:
+                          - 'img "Antes: 3000 reais" [ref=e383]':
+                            - generic [ref=e384]: R$
+                            - generic [ref=e385]: "3.000"
+                          - generic [ref=e386]:
+                            - 'img "Agora: 1599 reais" [ref=e387]':
+                              - generic [ref=e388]: R$
+                              - generic [ref=e389]: "1.599"
+                            - generic [ref=e390]: 46% OFF
+                          - generic [ref=e391]:
+                            - text: 10x
+                            - img "159 reais com 90 centavos" [ref=e392]:
+                              - generic [ref=e394]: R$
+                              - generic [ref=e395]: "159"
+                              - generic [ref=e396]: ","
+                              - generic [ref=e397]: "90"
+                            - text: sem juros
+                  - group "4 de 23" [ref=e398]:
+                    - generic [ref=e399]:
+                      - img [ref=e402]
+                      - generic [ref=e403]:
+                        - link "Tênis Lacoste T-base Lancamento" [ref=e404] [cursor=pointer]:
+                          - /url: https://produto.mercadolivre.com.br/MLB-2147554247-tnis-lacoste-t-base-lancamento-_JM?searchVariation=190076590403#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&reco_client=home-deals&reco_item_pos=4&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&c_id=/home/promotions-recommendations/element&c_uid=e2f0a6cc-9373-4d19-a953-c111310cfa44
+                        - generic [ref=e405]:
+                          - 'img "Antes: 489 reais com 99 centavos" [ref=e406]':
+                            - generic [ref=e407]: R$
+                            - generic [ref=e408]: "489"
+                            - generic [ref=e409]: ","
+                            - generic [ref=e410]: "99"
+                          - generic [ref=e411]:
+                            - 'img "Agora: 211 reais com 84 centavos" [ref=e412]':
+                              - generic [ref=e413]: R$
+                              - generic [ref=e414]: "211"
+                              - generic [ref=e415]: ","
+                              - generic [ref=e416]: "84"
+                            - generic [ref=e417]: 56% OFF no Pix
+                          - generic [ref=e418]:
+                            - text: ou
+                            - img "222 reais com 99 centavos" [ref=e420]:
+                              - generic [ref=e422]: R$
+                              - generic [ref=e423]: "222"
+                              - generic [ref=e424]: ","
+                              - generic [ref=e425]: "99"
+                            - text: em 6x
+                            - img "37 reais com 16 centavos" [ref=e426]:
+                              - generic [ref=e428]: R$
+                              - generic [ref=e429]: "37"
+                              - generic [ref=e430]: ","
+                              - generic [ref=e431]: "16"
+                            - text: sem juros
+                        - generic [ref=e433]: 7% OFF Saldo no Mercado Pago
+                        - generic [ref=e434]: Frete grátispor ser sua primeira compra
+                  - group [ref=e435]:
+                    - generic [ref=e436]:
+                      - img [ref=e439]
+                      - generic [ref=e440]:
+                        - link [ref=e441] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/fritadeira-air-fryer-forno-oven-12l-mondial-afon-12l-ab-preto/p/MLB53303401#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB4586981493&reco_client=home-deals&reco_item_pos=5&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=cc1e6a23-896b-457a-983e-8b1e5839d550
+                          - text: Fritadeira Air Fryer Forno Oven 12l Mondial Afon-12l-ab Preto 127v
+                        - generic [ref=e442]:
+                          - img [ref=e443]:
+                            - generic [ref=e444]: R$
+                            - generic [ref=e445]: "699"
+                          - generic [ref=e446]:
+                            - img [ref=e447]:
+                              - generic [ref=e448]: R$
+                              - generic [ref=e449]: "459"
+                            - generic [ref=e450]: 34% OFF no Pix
+                          - generic [ref=e451]:
+                            - text: ou
+                            - img [ref=e453]:
+                              - generic [ref=e455]: R$
+                              - generic [ref=e456]: "510"
+                            - text: em 10x
+                            - img [ref=e457]:
+                              - generic [ref=e459]: R$
+                              - generic [ref=e460]: "51"
+                            - text: sem juros
+                        - generic [ref=e461]: Frete grátispor ser sua primeira compra
+                  - group [ref=e462]:
+                    - generic [ref=e463]:
+                      - img [ref=e466]
+                      - generic [ref=e467]:
+                        - link [ref=e468] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/cooktop-de-induco-pctq1-funco-turbo-4-bocas-philco/p/MLB36753783#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB3756629399&reco_client=home-deals&reco_item_pos=6&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=aedd4964-f49d-4903-abef-1928c0e23581
+                          - text: Cooktop De Indução Pctq1 Função Turbo 4 Bocas Philco Preto 220v
+                        - generic [ref=e469]:
+                          - img [ref=e470]:
+                            - generic [ref=e471]: R$
+                            - generic [ref=e472]: "1.499"
+                          - generic [ref=e473]:
+                            - img [ref=e474]:
+                              - generic [ref=e475]: R$
+                              - generic [ref=e476]: "999"
+                            - generic [ref=e477]: 33% OFF
+                          - generic [ref=e478]:
+                            - text: 10x
+                            - img [ref=e479]:
+                              - generic [ref=e481]: R$
+                              - generic [ref=e482]: "99"
+                              - generic [ref=e483]: ","
+                              - generic [ref=e484]: "90"
+                            - text: sem juros
+                        - generic [ref=e485]: Frete grátispor ser sua primeira compra
+                  - group [ref=e486]:
+                    - generic [ref=e487]:
+                      - img [ref=e490]
+                      - generic [ref=e491]:
+                        - link [ref=e492] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/console-nintendo-switch-2-mario-kart-world-bundle-preto/p/MLB65522892#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB4327531345&reco_client=home-deals&reco_item_pos=7&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=eade300a-00e0-4e49-b592-fd79d0674d90
+                          - text: Console Nintendo Switch 2 + Mario Kart World Bundle Preto
+                        - generic [ref=e493]:
+                          - img [ref=e494]:
+                            - generic [ref=e495]: R$
+                            - generic [ref=e496]: "5.646"
+                          - generic [ref=e497]:
+                            - img [ref=e498]:
+                              - generic [ref=e499]: R$
+                              - generic [ref=e500]: "4.199"
+                            - generic [ref=e501]: 25% OFF
+                          - generic [ref=e502]:
+                            - text: 12x
+                            - img [ref=e503]:
+                              - generic [ref=e505]: R$
+                              - generic [ref=e506]: "403"
+                              - generic [ref=e507]: ","
+                              - generic [ref=e508]: "59"
+                        - generic [ref=e509]: Frete grátispor ser sua primeira compra
+                  - group [ref=e510]:
+                    - generic [ref=e511]:
+                      - img [ref=e514]
+                      - generic [ref=e515]:
+                        - link [ref=e516] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/smart-tv-profissional-4k-65-lg-uhd-65au801-processador-7-ai-ger8-super-upscaling-google-cast-alexa-integrado-controle-ai-smart-magic-webos-25/p/MLB60660217#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB6477077662&reco_client=home-deals&reco_item_pos=8&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=061cfa15-8004-488b-b1db-0a73bdb251e9
+                          - text: Smart Tv Profissional 4k 65 LG Uhd 65au801 Processador 7 Ai Ger8 Super Upscaling Google Cast Alexa Integrado Controle Ai Smart Magic Webos 25
+                        - generic [ref=e517]:
+                          - img [ref=e518]:
+                            - generic [ref=e519]: R$
+                            - generic [ref=e520]: "4.738"
+                          - generic [ref=e521]:
+                            - img [ref=e522]:
+                              - generic [ref=e523]: R$
+                              - generic [ref=e524]: "3.293"
+                            - generic [ref=e525]: 30% OFF no Pix
+                          - generic [ref=e526]:
+                            - text: ou
+                            - img [ref=e528]:
+                              - generic [ref=e530]: R$
+                              - generic [ref=e531]: "3.659"
+                            - text: em 10x
+                            - img [ref=e532]:
+                              - generic [ref=e534]: R$
+                              - generic [ref=e535]: "365"
+                              - generic [ref=e536]: ","
+                              - generic [ref=e537]: "90"
+                            - text: sem juros
+                        - generic [ref=e538]: Frete grátispor ser sua primeira compra
+                  - group [ref=e539]:
+                    - generic [ref=e540]:
+                      - img [ref=e543]
+                      - generic [ref=e544]:
+                        - link [ref=e545] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/celular-samsung-galaxy-a07-256gb-8gb-cmera-50mp-tela-67-proteco-ip54-processador-6nm-preto/p/MLB54961556#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB5868503148&reco_client=home-deals&reco_item_pos=9&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=3aef9ccb-29d3-4095-980e-c81bd0671624
+                          - text: Celular Samsung Galaxy A07 256gb, 8gb, Câmera 50mp, Tela 6.7 , Proteção Ip54, Processador 6nm - Preto
+                        - generic [ref=e546]:
+                          - img [ref=e547]:
+                            - generic [ref=e548]: R$
+                            - generic [ref=e549]: "1.142"
+                          - generic [ref=e550]:
+                            - img [ref=e551]:
+                              - generic [ref=e552]: R$
+                              - generic [ref=e553]: "764"
+                              - generic [ref=e554]: ","
+                              - generic [ref=e555]: "15"
+                            - generic [ref=e556]: 33% OFF no Pix
+                          - generic [ref=e557]:
+                            - text: ou
+                            - img [ref=e559]:
+                              - generic [ref=e561]: R$
+                              - generic [ref=e562]: "899"
+                            - text: em 10x
+                            - img [ref=e563]:
+                              - generic [ref=e565]: R$
+                              - generic [ref=e566]: "89"
+                              - generic [ref=e567]: ","
+                              - generic [ref=e568]: "90"
+                            - text: sem juros
+                        - generic [ref=e569]: Frete grátispor ser sua primeira compra
+                  - group [ref=e570]:
+                    - generic [ref=e571]:
+                      - img [ref=e574]
+                      - generic [ref=e575]:
+                        - link [ref=e576] [cursor=pointer]:
+                          - /url: https://produto.mercadolivre.com.br/MLB-4159187643-tnis-esportivo-treino-academia-tribase-reps-2-under-armour-_JM?searchVariation=184696727422#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&reco_client=home-deals&reco_item_pos=10&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&c_id=/home/promotions-recommendations/element&c_uid=9ceedfa9-c7ff-471f-b785-277a607ab96f
+                          - text: Tênis Esportivo Treino Academia Tribase Reps 2 Under Armour
+                        - generic [ref=e577]:
+                          - img [ref=e578]:
+                            - generic [ref=e579]: R$
+                            - generic [ref=e580]: "499"
+                            - generic [ref=e581]: ","
+                            - generic [ref=e582]: "99"
+                          - generic [ref=e583]:
+                            - img [ref=e584]:
+                              - generic [ref=e585]: R$
+                              - generic [ref=e586]: "320"
+                              - generic [ref=e587]: ","
+                              - generic [ref=e588]: "09"
+                            - generic [ref=e589]: 35% OFF
+                          - generic [ref=e590]:
+                            - text: 12x
+                            - img [ref=e591]:
+                              - generic [ref=e593]: R$
+                              - generic [ref=e594]: "31"
+                              - generic [ref=e595]: ","
+                              - generic [ref=e596]: "31"
+                        - generic [ref=e599]:
+                          - img [ref=e600]
+                          - text: Cupom 10% OFF
+                        - generic [ref=e602]: Frete grátispor ser sua primeira compra
+                  - group [ref=e603]:
+                    - generic [ref=e604]:
+                      - img [ref=e607]
+                      - generic [ref=e608]:
+                        - link [ref=e609] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/kit-10-pote-de-vidro-marmita-hermetico-640ml-freezer-fitness-rishon/p/MLB63904966#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB5943910200&reco_client=home-deals&reco_item_pos=11&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=daa0b653-b249-4e1d-914c-ee9626c23ae1
+                          - text: Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Rishon Azul-escuro
+                        - generic [ref=e610]:
+                          - img [ref=e611]:
+                            - generic [ref=e612]: R$
+                            - generic [ref=e613]: "179"
+                            - generic [ref=e614]: ","
+                            - generic [ref=e615]: "90"
+                          - generic [ref=e616]:
+                            - img [ref=e617]:
+                              - generic [ref=e618]: R$
+                              - generic [ref=e619]: "108"
+                              - generic [ref=e620]: ","
+                              - generic [ref=e621]: "30"
+                            - generic [ref=e622]: 39% OFF no Pix
+                          - generic [ref=e623]:
+                            - text: ou
+                            - img [ref=e625]:
+                              - generic [ref=e627]: R$
+                              - generic [ref=e628]: "114"
+                            - text: em outros meios
+                        - generic [ref=e631]:
+                          - img [ref=e632]
+                          - text: Cupom 10% OFF
+                        - generic [ref=e634]: Frete grátispor ser sua primeira compra
+                  - group [ref=e635]:
+                    - generic [ref=e636]:
+                      - img [ref=e639]
+                      - generic [ref=e640]:
+                        - link [ref=e641] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/creatina-monohidratada-250g-growth-supplements-sem-sabor-em-po/p/MLB19603205#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB5872060016&reco_client=home-deals&reco_item_pos=12&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=d9de8f5d-6683-4fcf-af4e-a2753bea2941
+                          - text: Creatina Monohidratada 250g Growth Supplements - Sem Sabor Em Pó
+                        - generic [ref=e642]:
+                          - img [ref=e643]:
+                            - generic [ref=e644]: R$
+                            - generic [ref=e645]: "64"
+                            - generic [ref=e646]: ","
+                            - generic [ref=e647]: "90"
+                          - generic [ref=e648]:
+                            - img [ref=e649]:
+                              - generic [ref=e650]: R$
+                              - generic [ref=e651]: "39"
+                              - generic [ref=e652]: ","
+                              - generic [ref=e653]: "90"
+                            - generic [ref=e654]: 38% OFF
+                        - generic [ref=e655]: Frete grátispor ser sua primeira compra
+                  - group [ref=e656]:
+                    - generic [ref=e657]:
+                      - img [ref=e660]
+                      - generic [ref=e661]:
+                        - link [ref=e662] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/smart-tv-lg-43full-hd-processador-a5-ger6-ai-alexa-e-webos-23-43lr6700psa/p/MLB39205913#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB4279400353&reco_client=home-deals&reco_item_pos=13&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=7f648b5e-1d6d-48ad-ab98-7d5ed4643e45
+                          - text: Smart Tv LG 43 Full Hd, Processador A5 Ger6, Ai, Alexa E Webos 23 - 43lr6700psa
+                        - generic [ref=e663]:
+                          - img [ref=e664]:
+                            - generic [ref=e665]: R$
+                            - generic [ref=e666]: "2.190"
+                          - generic [ref=e667]:
+                            - img [ref=e668]:
+                              - generic [ref=e669]: R$
+                              - generic [ref=e670]: "1.465"
+                            - generic [ref=e671]: 33% OFF no Pix
+                          - generic [ref=e672]:
+                            - text: ou
+                            - img [ref=e674]:
+                              - generic [ref=e676]: R$
+                              - generic [ref=e677]: "1.665"
+                            - text: em 10x
+                            - img [ref=e678]:
+                              - generic [ref=e680]: R$
+                              - generic [ref=e681]: "166"
+                              - generic [ref=e682]: ","
+                              - generic [ref=e683]: "50"
+                            - text: sem juros
+                        - generic [ref=e686]:
+                          - img [ref=e687]
+                          - text: Cupom 10% OFF
+                        - generic [ref=e689]: Frete grátispor ser sua primeira compra
+                  - group [ref=e690]:
+                    - generic [ref=e691]:
+                      - img [ref=e694]
+                      - generic [ref=e695]:
+                        - link [ref=e696] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/iphone-17-256gb-azul-nevoa-distribuidor-autorizado/p/MLB1055308852#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB6545211990&reco_client=home-deals&reco_item_pos=14&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=1c48ec0f-221d-4c8a-adf4-7d1747ccabeb
+                          - text: iPhone 17 256 gb - Azul-névoa - Distribuidor Autorizado
+                        - generic [ref=e697]:
+                          - img [ref=e698]:
+                            - generic [ref=e699]: R$
+                            - generic [ref=e700]: "7.999"
+                          - generic [ref=e701]:
+                            - img [ref=e702]:
+                              - generic [ref=e703]: R$
+                              - generic [ref=e704]: "5.865"
+                            - generic [ref=e705]: 26% OFF no Pix ou Saldo no Mercado Pago
+                          - generic [ref=e706]:
+                            - text: ou
+                            - img [ref=e708]:
+                              - generic [ref=e710]: R$
+                              - generic [ref=e711]: "6.665"
+                            - text: em 10x
+                            - img [ref=e712]:
+                              - generic [ref=e714]: R$
+                              - generic [ref=e715]: "666"
+                              - generic [ref=e716]: ","
+                              - generic [ref=e717]: "50"
+                            - text: sem juros
+                        - generic [ref=e720]:
+                          - img [ref=e721]
+                          - text: Cupom
+                          - img [ref=e723]:
+                            - generic [ref=e725]: R$
+                            - generic [ref=e726]: "250"
+                          - text: "OFF"
+                        - generic [ref=e727]: Frete grátispor ser sua primeira compra
+                  - group [ref=e728]:
+                    - generic [ref=e729]:
+                      - img [ref=e732]
+                      - generic [ref=e733]:
+                        - link [ref=e734] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/kit-2-cmera-seguranca-ip-interna-externa-wifi-icsee-infravermelho-prova-dagua-hw/p/MLB46836439#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB4345150639&reco_client=home-deals&reco_item_pos=15&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=2ff8341b-94b2-419c-98e0-2b437f5ce1d3
+                          - text: Kit 2 Câmera Segurança Ip Interna Externa Wifi Icsee Infravermelho Prova Dágua - Hw Branco
+                        - generic [ref=e735]:
+                          - img [ref=e736]:
+                            - generic [ref=e737]: R$
+                            - generic [ref=e738]: "339"
+                          - generic [ref=e739]:
+                            - img [ref=e740]:
+                              - generic [ref=e741]: R$
+                              - generic [ref=e742]: "185"
+                              - generic [ref=e743]: ","
+                              - generic [ref=e744]: "99"
+                            - generic [ref=e745]: 45% OFF
+                        - generic [ref=e746]: Frete grátispor ser sua primeira compra
+                  - group [ref=e747]:
+                    - generic [ref=e748]:
+                      - img [ref=e751]
+                      - generic [ref=e752]:
+                        - link [ref=e753] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/creatina-monohidratada-pura-1kg-dark-lab-unidade-sem-sabor/p/MLB25929487#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB4812130742&reco_client=home-deals&reco_item_pos=16&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=5c306456-459d-433d-9c62-86351c95f42b
+                          - text: Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem Sabor
+                        - generic [ref=e754]:
+                          - img [ref=e755]:
+                            - generic [ref=e756]: R$
+                            - generic [ref=e757]: "159"
+                            - generic [ref=e758]: ","
+                            - generic [ref=e759]: "90"
+                          - generic [ref=e760]:
+                            - img [ref=e761]:
+                              - generic [ref=e762]: R$
+                              - generic [ref=e763]: "69"
+                              - generic [ref=e764]: ","
+                              - generic [ref=e765]: "90"
+                            - generic [ref=e766]: 56% OFF
+                        - generic [ref=e769]:
+                          - img [ref=e770]
+                          - text: Cupom
+                          - img [ref=e772]:
+                            - generic [ref=e774]: R$
+                            - generic [ref=e775]: "20"
+                          - text: "OFF"
+                        - generic [ref=e776]: Frete grátispor ser sua primeira compra
+                  - group [ref=e777]:
+                    - generic [ref=e778]:
+                      - img [ref=e781]
+                      - generic [ref=e782]:
+                        - link [ref=e783] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/micro-ondas-cm020bf-20-litros-espelhado-com-funco-descongelar-cor-cinza-e-inox-consul/p/MLB6207755#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB1860884941&reco_client=home-deals&reco_item_pos=17&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=f4dec51b-9d7c-4bc6-ad7f-956d06215819
+                          - text: Micro-ondas Cm020bf 20 Litros Espelhado Com Função Descongelar Cor Cinza E Inox Consul 127v
+                        - generic [ref=e784]:
+                          - img [ref=e785]:
+                            - generic [ref=e786]: R$
+                            - generic [ref=e787]: "699"
+                          - generic [ref=e788]:
+                            - img [ref=e789]:
+                              - generic [ref=e790]: R$
+                              - generic [ref=e791]: "455"
+                              - generic [ref=e792]: ","
+                              - generic [ref=e793]: "05"
+                            - generic [ref=e794]: 34% OFF no Pix ou Saldo no Mercado Pago
+                          - generic [ref=e795]:
+                            - text: ou
+                            - img [ref=e797]:
+                              - generic [ref=e799]: R$
+                              - generic [ref=e800]: "479"
+                            - text: em 9x
+                            - img [ref=e801]:
+                              - generic [ref=e803]: R$
+                              - generic [ref=e804]: "53"
+                              - generic [ref=e805]: ","
+                              - generic [ref=e806]: "22"
+                            - text: sem juros
+                        - generic [ref=e809]:
+                          - img [ref=e810]
+                          - text: Cupom
+                          - img [ref=e812]:
+                            - generic [ref=e814]: R$
+                            - generic [ref=e815]: "50"
+                          - text: "OFF"
+                        - generic [ref=e816]: Frete grátispor ser sua primeira compra
+                  - group [ref=e817]:
+                    - generic [ref=e818]:
+                      - img [ref=e821]
+                      - generic [ref=e822]:
+                        - link [ref=e823] [cursor=pointer]:
+                          - /url: https://produto.mercadolivre.com.br/MLB-4231695745-fone-de-ouvido-bluetooth-t29-tws-gamer-mais-30h-de-musica-_JM?searchVariation=191378515419#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&reco_client=home-deals&reco_item_pos=18&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&c_id=/home/promotions-recommendations/element&c_uid=b3ed5c6a-f3b3-45e3-8f35-58565c4d8cf9
+                          - text: Fone De Ouvido Bluetooth T29 Tws Gamer Mais 30h De Musica
+                        - generic [ref=e824]:
+                          - img [ref=e825]:
+                            - generic [ref=e826]: R$
+                            - generic [ref=e827]: "269"
+                            - generic [ref=e828]: ","
+                            - generic [ref=e829]: "90"
+                          - generic [ref=e830]:
+                            - img [ref=e831]:
+                              - generic [ref=e832]: R$
+                              - generic [ref=e833]: "109"
+                              - generic [ref=e834]: ","
+                              - generic [ref=e835]: "90"
+                            - generic [ref=e836]: 59% OFF
+                          - generic [ref=e837]:
+                            - text: 4x
+                            - img [ref=e838]:
+                              - generic [ref=e840]: R$
+                              - generic [ref=e841]: "27"
+                              - generic [ref=e842]: ","
+                              - generic [ref=e843]: "48"
+                            - text: sem juros
+                        - generic [ref=e844]: Frete grátispor ser sua primeira compra
+                  - group [ref=e845]:
+                    - generic [ref=e846]:
+                      - img [ref=e849]
+                      - generic [ref=e850]:
+                        - link [ref=e851] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/smart-tv-32-philco-p32vik-roku-led-dolby-audio-hdr-wi-fi-110220v/p/MLB63036814#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB4367472233&reco_client=home-deals&reco_item_pos=19&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=f9ee5c27-90c2-4414-a3a7-73cc2a2ef42f
+                          - text: Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v
+                        - generic [ref=e852]:
+                          - img [ref=e853]:
+                            - generic [ref=e854]: R$
+                            - generic [ref=e855]: "1.499"
+                          - generic [ref=e856]:
+                            - img [ref=e857]:
+                              - generic [ref=e858]: R$
+                              - generic [ref=e859]: "928"
+                              - generic [ref=e860]: ","
+                              - generic [ref=e861]: "32"
+                            - generic [ref=e862]: 38% OFF no Pix
+                          - generic [ref=e863]:
+                            - text: ou
+                            - img [ref=e865]:
+                              - generic [ref=e867]: R$
+                              - generic [ref=e868]: "977"
+                              - generic [ref=e869]: ","
+                              - generic [ref=e870]: "18"
+                            - text: em 10x
+                            - img [ref=e871]:
+                              - generic [ref=e873]: R$
+                              - generic [ref=e874]: "97"
+                              - generic [ref=e875]: ","
+                              - generic [ref=e876]: "72"
+                            - text: sem juros
+                        - generic [ref=e878]: 10% OFF Saldo no Mercado Pago
+                        - generic [ref=e881]:
+                          - img [ref=e882]
+                          - text: Cupom 10% OFF
+                        - generic [ref=e884]: Frete grátispor ser sua primeira compra
+                  - group [ref=e885]:
+                    - generic [ref=e886]:
+                      - img [ref=e889]
+                      - generic [ref=e890]:
+                        - link [ref=e891] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/creatina-monohidratada-1kg-soldiers-nutrition-100-pura-importada-alta-performance-musculo-treino/p/MLB18725310#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB2766771378&reco_client=home-deals&reco_item_pos=20&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=c12a3fdb-edcd-4d80-bd4c-ecd534b7115b
+                          - text: Creatina Monohidratada 1kg Soldiers Nutrition 100% Pura Importada Alta Performance Músculo Treino Sem Sabor
+                        - generic [ref=e892]:
+                          - img [ref=e893]:
+                            - generic [ref=e894]: R$
+                            - generic [ref=e895]: "239"
+                            - generic [ref=e896]: ","
+                            - generic [ref=e897]: "90"
+                          - generic [ref=e898]:
+                            - img [ref=e899]:
+                              - generic [ref=e900]: R$
+                              - generic [ref=e901]: "65"
+                              - generic [ref=e902]: ","
+                              - generic [ref=e903]: "90"
+                            - generic [ref=e904]: 72% OFF
+                        - generic [ref=e907]:
+                          - img [ref=e908]
+                          - text: Cupom
+                          - img [ref=e910]:
+                            - generic [ref=e912]: R$
+                            - generic [ref=e913]: "10"
+                          - text: "OFF"
+                        - generic [ref=e914]: Frete grátispor ser sua primeira compra
+                  - group [ref=e915]:
+                    - generic [ref=e916]:
+                      - img [ref=e919]
+                      - generic [ref=e920]:
+                        - link [ref=e921] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/microfone-hollyland-lark-m2-duo-combo-duplo-para-2-pessoas-preto/p/MLB58712237#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB4571495317&reco_client=home-deals&reco_item_pos=21&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=7696db1a-c22b-4ac1-8bc8-d28101ca775a
+                          - text: Microfone Hollyland Lark M2 Duo Combo Duplo Para 2 Pessoas Preto
+                        - generic [ref=e922]:
+                          - img [ref=e923]:
+                            - generic [ref=e924]: R$
+                            - generic [ref=e925]: "999"
+                            - generic [ref=e926]: ","
+                            - generic [ref=e927]: "99"
+                          - generic [ref=e928]:
+                            - img [ref=e929]:
+                              - generic [ref=e930]: R$
+                              - generic [ref=e931]: "667"
+                            - generic [ref=e932]: 33% OFF
+                          - generic [ref=e933]:
+                            - text: 12x
+                            - img [ref=e934]:
+                              - generic [ref=e936]: R$
+                              - generic [ref=e937]: "64"
+                              - generic [ref=e938]: ","
+                              - generic [ref=e939]: "50"
+                        - generic [ref=e940]: Frete grátispor ser sua primeira compra
+                  - group [ref=e941]:
+                    - generic [ref=e942]:
+                      - img [ref=e945]
+                      - generic [ref=e946]:
+                        - link [ref=e947] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/celular-samsung-galaxy-a26-5g-256gb-8gb-ram-cmera-de-50mp-ip67-tela-super-amoled-67-nfc-preto/p/MLB47424244#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB5474927460&reco_client=home-deals&reco_item_pos=22&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=220d30ea-1a12-47d2-8f26-fbb6464d44de
+                          - text: Celular Samsung Galaxy A26 5g 256gb, 8gb Ram, Câmera De 50mp, Ip67, Tela Super Amoled 6.7 , Nfc - Preto
+                        - generic [ref=e948]:
+                          - img [ref=e949]:
+                            - generic [ref=e950]: R$
+                            - generic [ref=e951]: "2.167"
+                          - generic [ref=e952]:
+                            - img [ref=e953]:
+                              - generic [ref=e954]: R$
+                              - generic [ref=e955]: "1.328"
+                            - generic [ref=e956]: 38% OFF no Pix
+                          - generic [ref=e957]:
+                            - text: ou
+                            - img [ref=e959]:
+                              - generic [ref=e961]: R$
+                              - generic [ref=e962]: "1.510"
+                            - text: em outros meios
+                        - generic [ref=e965]:
+                          - img [ref=e966]
+                          - text: Cupom 10% OFF
+                        - generic [ref=e968]: Frete grátispor ser sua primeira compra
+                  - group [ref=e969]:
+                    - generic [ref=e970]:
+                      - img [ref=e973]
+                      - generic [ref=e974]:
+                        - link [ref=e975] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/parafusadeira-furadeira-de-impacto-the-black-tools-profissional-tb-21px-2-baterias-com-maleta-60hz-amarelo/p/MLB30144703#polycard_client=recommendations_home-deals&reco_backend=deals-model-odin&wid=MLB4268042659&reco_client=home-deals&reco_item_pos=23&reco_backend_type=low_level&reco_id=5cc8d6b1-1e83-4abb-8356-dfe230050ac9&sid=recos&c_id=/home/promotions-recommendations/element&c_uid=c62a74e1-46b0-4ec0-8956-1c09d60954fa
+                          - text: Parafusadeira Furadeira De Impacto The Black Tools Profissional Tb-21px 2 Baterias Com Maleta 60hz Amarelo 127/220v
+                        - generic [ref=e976]:
+                          - img [ref=e977]:
+                            - generic [ref=e978]: R$
+                            - generic [ref=e979]: "395"
+                            - generic [ref=e980]: ","
+                            - generic [ref=e981]: "85"
+                          - generic [ref=e982]:
+                            - img [ref=e983]:
+                              - generic [ref=e984]: R$
+                              - generic [ref=e985]: "170"
+                              - generic [ref=e986]: ","
+                              - generic [ref=e987]: "91"
+                            - generic [ref=e988]: 56% OFF no Pix
+                          - generic [ref=e989]:
+                            - text: ou
+                            - img [ref=e991]:
+                              - generic [ref=e993]: R$
+                              - generic [ref=e994]: "179"
+                              - generic [ref=e995]: ","
+                              - generic [ref=e996]: "90"
+                            - text: em 5x
+                            - img [ref=e997]:
+                              - generic [ref=e999]: R$
+                              - generic [ref=e1000]: "35"
+                              - generic [ref=e1001]: ","
+                              - generic [ref=e1002]: "98"
+                            - text: sem juros
+                        - generic [ref=e1004]: 7% OFF Saldo no Mercado Pago
+                        - generic [ref=e1005]: Frete grátispor ser sua primeira compra
+                - button "Seguinte" [ref=e1006] [cursor=pointer]:
+                  - img [ref=e1007]
+        - generic [ref=e1011]:
+          - link "ORAL-B IO SERIES 2 REMOVE 100% MAIS PLACA Saiba mais" [ref=e1012] [cursor=pointer]:
+            - /url: https://click1.mercadolivre.com.br/display/clicks/MLB/count?a=fK4mdoFINN63Q9O7W6N9vhqACVujmivUc%2Bhb7VgjS%2Fvz3KRJl6nMzOn%2FPAcYxlcTof%2FCo9a97O56ljPz2GhM8ExgB5uLsA2bzHZ7b3cbmbt6%2Fzak%2BPQW0ELHl1Edr6XY9xbgF5UJUG4K7OQ4IDoqW6vjXem0Fo%2FrbU4D2djVC%2BHSyNSZBA7orZHNgkuW%2F8nMO67mShLbtxFFhR1wzNah4koGB8q%2FwN1%2FRzx16%2F4YeEvv1EOGM9ITZX7HniJdGkENSHTwlrbDZhGkosfapQh8N%2BwLlkHcLIatDNvFm8uq0133ohtc3rcduPZO4IbUjW0pMyv0d3NTgvnuU6Xu5esM7LlJBiQz%2F5L2XIlrP4%2Fu8dnfaFOb6CdU6ve3WDaJOd2FGAMBIcD71JlVc1DZIPLY49Ea5kUM0mAl256v4oRN9axY0ebcXAL7aT0CrFsXsrFlZDDZJOu8jSGj7nx1Acs3Zdt8wzaDZbEg3UmEalmvICtIJLrJnhKcs2pS%2FmD41iXLPkWtUye7T3iPR4hkCMxQE334d1YUD%2FY%2Foq1RBB5WkT%2Btn%2FtLWG2KTWXWZSZvi4CRudefmMtTndn18sgR2%2BP35lIavN8n0wvG10ldQo2gASqBfP3oOGEW7d%2BsocTt3H5ixftUFGVkITB04tYO84Cs3nlhhsZLdeMdcQw%2FZ50V8yJcG6Smfh7CtHD%2F%2FNe7cD3rLXCaG5ALIYDg7M9wrKal%2F6JQexaqn9qKf9M5K2uxFQPqTqkR%2BU0FfhiM4AmDpmi%2BMfgScgX7iBSwSVC%2B9G6%2BxuTh7B2tONb8VN8OsObfByZVpOsfKCr%2F56t2mpFUJqEt%2FA6sIM5Qq5de%2BKE01A%3D%3D
+            - generic [ref=e1013]:
+              - generic [ref=e1015]:
+                - img [ref=e1017]
+                - generic [ref=e1018]:
+                  - generic [ref=e1019]: ORAL-B IO SERIES 2
+                  - generic [ref=e1020]:
+                    - heading "REMOVE 100%" [level=2] [ref=e1021]
+                    - heading "MAIS PLACA" [level=2] [ref=e1022]
+                  - generic [ref=e1024]: Saiba mais
+              - img [ref=e1027]
+          - link "LUMINOUS WHITE CLAREAMENTO QUE IMPRESSIONA! Saiba mais" [ref=e1028] [cursor=pointer]:
+            - /url: https://click1.mercadolivre.com.br/display/clicks/MLB/count?a=423lef2vBz%2FkZKw9NQyD8SfGaffl8GF%2Br8YKhOGddQItkf1FNiGXaNTkkfA%2F9q1OGjk7g9x8GuRO%2FYc67dvHnX6KRMC3FpDmdqAaYj53yeak1HoM7CilTVb%2FI5Nu6e1XZo%2BCsrMkqnWwLbDBqlswL856S4%2BYrPLHr0mt25jKqvFoE%2FcIo2f8heLcwkJACABTUDJkah5n7SNo1xigCnOtChNb%2BKUQ0yrWIOlNdubOZKfRwtAvM%2Fia7V4YS7DERQM0w9tMCDFgPYoV719II1ZQs1uFxf2GVvExU2ZOT82r1yWotopiQXA%2F8oO1qC9x%2FtE71hhCgg5avtVw%2B0CPJlma26sfKYpngIt%2BbcLojpmzan8f0sxWHxz8WPQ9G8xhFcvyAJiY1f3X4TCGa%2BrVo%2BLbn9R3NHE8ZILECVmZRTx09qcbTyhKdfImkiRUzBV6TjEhGKHyOSycfsvs2Y9s%2BYdkw%2FWCQ5BVaf4lZGh5qS0UoNZgEaDpz8ZYz8c%2FHBuMWaXT4FW1fJ2hQP5rIS0MaxYX6spGF1E3Gnp3%2FZAa5FmH6uhcxM4EVitU%2BVy%2FTn0Pij2pOkCOxaNuFqYiYUCTLP03bVM23uVgylpVwy1h2%2FxQvj4sEVKHd0jYE%2BBwrVMySVk5zJYK%2BmWW2wBOgBtuNGQbEcBM%2Fjxv8%2FOqXkm0LKaOXIy0C0DahXZBaiTIKIUhcy4iTFLSLnkTX%2BLDmzPR4NFUEAkHTwVr55py8HyYVChVB1HOwwf4IJDUN5Vsb2n9%2FFBZgJ1nAgUPb7b4ozi4fFiO1621dE0fwbequ1rKCv8euZ7c88FehvD91ipOpXDbdfUF4%2BKzTN3ZpHyvNfkp5Q%3D%3D
+            - generic [ref=e1029]:
+              - generic [ref=e1031]:
+                - img [ref=e1033]
+                - generic [ref=e1034]:
+                  - generic [ref=e1035]: LUMINOUS WHITE
+                  - generic [ref=e1036]:
+                    - heading "CLAREAMENTO QUE" [level=2] [ref=e1037]
+                    - heading "IMPRESSIONA!" [level=2] [ref=e1038]
+                  - generic [ref=e1040]: Saiba mais
+              - img [ref=e1043]
+        - generic [ref=e1047]:
+          - generic [ref=e1048]:
+            - generic [ref=e1049]:
+              - img "https://http2.mlstatic.com/resources/frontend/statics/loyal/partners/meliplus/vdp/pill-meliplus.png" [ref=e1050]
+              - heading "Benefícios exclusivos a partir de 9 reais e 90 centavos por mês." [level=2] [ref=e1052]:
+                - generic [ref=e1053]: VIVA TODA A EXPERIÊNCIA MERCADO LIVRE
+                - generic [ref=e1054]: Benefícios exclusivos a partir de 9 reais e 90 centavos por mês.
+            - button "Assinar a partir de R$ 9,90" [ref=e1055]:
+              - link "Assinar a partir de R$ 9,90" [ref=e1056] [cursor=pointer]:
+                - /url: //www.mercadolivre.com.br/assinaturas/melimais/planos#origin=widget_home#c_id=/home/user-loyalty-benefits&c_uid=24d67871-fdf2-48da-87d8-e1a286a95f41
+                - generic [ref=e1058]: Assinar a partir de R$ 9,90
+          - generic [ref=e1059]:
+            - generic [ref=e1060]:
+              - img "Frete grátis rápido em produtos a partir de 19 reais" [ref=e1061]
+              - paragraph [ref=e1062]:
+                - generic [ref=e1063]: Frete grátis rápido em produtos a partir de R$ 19
+                - generic [ref=e1064]: Frete grátis rápido em produtos a partir de 19 reais
+            - generic [ref=e1065]:
+              - img "As melhores plataformas de entretenimento" [ref=e1066]
+              - paragraph [ref=e1067]:
+                - generic [ref=e1068]: As melhores plataformas de entretenimento
+                - generic [ref=e1069]: As melhores plataformas de entretenimento
+            - generic [ref=e1070]:
+              - img "Até 5% de cashback nas suas compras e pagamentos" [ref=e1071]
+              - paragraph [ref=e1072]:
+                - generic [ref=e1073]: Até 5% de cashback nas suas compras e pagamentos
+                - generic [ref=e1074]: Até 5% de cashback nas suas compras e pagamentos
+            - generic [ref=e1075]:
+              - img "Rendimento de 120% do CDI em Cofrinhos" [ref=e1076]
+              - paragraph [ref=e1077]:
+                - generic [ref=e1078]: Rendimento de 120% do CDI em Cofrinhos
+                - generic [ref=e1079]: Rendimento de 120% do CDI em Cofrinhos
+        - generic [ref=e1085]:
+          - img "The rookie" [ref=e1086]
+          - link "Mercado Play Séries e filmes também na sua TV! grátis Acesse o Mercado Play" [ref=e1089]:
+            - generic [ref=e1090]:
+              - img "Mercado Play" [ref=e1091]
+              - generic [ref=e1092]:
+                - generic [ref=e1093]: Séries e filmes
+                - generic [ref=e1094]: também na sua TV!
+                - generic [ref=e1095]: grátis
+              - button "Acesse o Mercado Play" [ref=e1097]:
+                - generic [ref=e1098] [cursor=pointer]: Acesse o Mercado Play
+          - generic [ref=e1101]:
+            - link "Trailer de The rookie que é reproduzido automaticamente" [ref=e1102] [cursor=pointer]:
+              - paragraph [ref=e1106]: The rookie
+              - img "The rookie" [ref=e1107]
+            - button "Reproduzir" [ref=e1108] [cursor=pointer]:
+              - generic [ref=e1109]: Reproduzir
+        - region "Benefícios em entretenimento" [ref=e1115]:
+          - generic [ref=e1116]:
+            - heading "Benefícios em entretenimento" [level=2] [ref=e1119]
+            - list [ref=e1120]:
+              - listitem [ref=e1121]:
+                - button [ref=e1122]:
+                  - generic [ref=e1123]: Página 1
+              - listitem [ref=e1124]:
+                - button [ref=e1125]:
+                  - generic [ref=e1126]: Página 2
+          - generic [ref=e1127]:
+            - button "Anterior" [disabled] [ref=e1128]:
+              - img [ref=e1129]
+            - generic [ref=e1132]:
+              - group "1 de 5" [ref=e1133]:
+                - link "Plano Padrão com anúncios Disney+ Incluído com o Meli+ Total Plano Padrão com anúncios" [ref=e1135] [cursor=pointer]:
+                  - /url: //www.mercadolivre.com.br/assinaturas/melimais?origin=ml_home&showModal=true&product=meli_total#origin=ml_home
+                  - img "Plano Padrão com anúncios" [ref=e1137]
+                  - generic [ref=e1138]:
+                    - img "Disney+" [ref=e1139]
+                    - generic [ref=e1140]:
+                      - generic [ref=e1141]: Incluído com o Meli+ Total
+                      - generic [ref=e1142]: Plano Padrão com anúncios
+              - group "2 de 5" [ref=e1143]:
+                - link "HBO Max HBO Max 15% OFF HBO Max" [ref=e1145] [cursor=pointer]:
+                  - /url: //www.mercadolivre.com.br/assinaturas/hbo?origin=ml_home#origin=ml_home
+                  - img "HBO Max" [ref=e1147]
+                  - generic [ref=e1148]:
+                    - img "HBO Max" [ref=e1149]
+                    - generic [ref=e1150]:
+                      - generic [ref=e1151]: 15% OFF
+                      - generic [ref=e1152]: HBO Max
+              - group "3 de 5" [ref=e1153]:
+                - link "NOVO Premiere Premiere 10% OFF Premiere" [ref=e1155] [cursor=pointer]:
+                  - /url: //www.mercadolivre.com.br/assinaturas/premiere?origin=ml_home#origin=ml_home
+                  - paragraph [ref=e1157]: NOVO
+                  - img "Premiere" [ref=e1159]
+                  - generic [ref=e1160]:
+                    - img "Premiere" [ref=e1161]
+                    - generic [ref=e1162]:
+                      - generic [ref=e1163]: 10% OFF
+                      - generic [ref=e1164]: Premiere
+              - group [ref=e1165]:
+                - link [ref=e1167] [cursor=pointer]:
+                  - /url: //www.mercadolivre.com.br/assinaturas/universal?origin=ml_home#origin=ml_home
+                  - img [ref=e1169]
+                  - generic [ref=e1170]:
+                    - img [ref=e1171]
+                    - generic [ref=e1172]:
+                      - generic [ref=e1173]: 7 DIAS GRÁTIS
+                      - generic [ref=e1174]: 15% OFF
+                      - generic [ref=e1175]: Universal+
+              - group [ref=e1176]:
+                - link [ref=e1178] [cursor=pointer]:
+                  - /url: //www.mercadolivre.com.br/assinaturas/globo?origin=ml_home#origin=ml_home
+                  - paragraph [ref=e1180]: NOVO
+                  - img [ref=e1182]
+                  - generic [ref=e1183]:
+                    - img [ref=e1184]
+                    - generic [ref=e1185]:
+                      - generic [ref=e1186]: 15% OFF
+                      - generic [ref=e1187]: Globoplay Premium
+            - button "Seguinte" [ref=e1188] [cursor=pointer]:
+              - img [ref=e1189]
+        - generic [ref=e1195]:
+          - generic [ref=e1196]:
+            - heading "Categorias" [level=2] [ref=e1197]
+            - link "Mostrar todas as categorias" [ref=e1198] [cursor=pointer]:
+              - /url: https://home.mercadolivre.com.br/categories
+          - generic [ref=e1199]:
+            - list [ref=e1201]:
+              - listitem [ref=e1202]:
+                - button [ref=e1203]:
+                  - generic [ref=e1204]: Página 1
+              - listitem [ref=e1205]:
+                - button [ref=e1206]:
+                  - generic [ref=e1207]: Página 2
+              - listitem [ref=e1208]:
+                - button [ref=e1209]:
+                  - generic [ref=e1210]: Página 3
+            - generic [ref=e1211]:
+              - button "Anterior" [disabled] [ref=e1212]:
+                - img [ref=e1213]
+              - generic [ref=e1216]:
+                - group "1 de 11" [ref=e1217]:
+                  - generic [ref=e1218]:
+                    - generic [ref=e1219]:
+                      - img [ref=e1221]
+                      - paragraph [ref=e1223]:
+                        - link "Carros, Motos e Outros" [ref=e1224] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/carros-motos-e-outros#c_id=/home/categories/element&c_category_id=MLB1743&c_uid=a17785b7-ffa9-424c-b4b6-56a9ba50cdb4
+                    - generic [ref=e1225]:
+                      - img [ref=e1227]
+                      - paragraph [ref=e1229]:
+                        - link "Acessórios para Veículos" [ref=e1230] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/acessorios-para-veiculos#c_id=/home/categories/element&c_category_id=MLB5672&c_uid=3427138c-7d4a-462a-8e6f-6beba105cc39
+                    - generic [ref=e1231]:
+                      - img [ref=e1233]
+                      - paragraph [ref=e1235]:
+                        - link "Casa, Móveis e Decoração" [ref=e1236] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/casa-moveis-e-decoracao#c_id=/home/categories/element&c_category_id=MLB1574&c_uid=88a31453-3645-4575-aa04-cec17b99aece
+                - group "2 de 11" [ref=e1237]:
+                  - generic [ref=e1238]:
+                    - generic [ref=e1239]:
+                      - img [ref=e1241]
+                      - paragraph [ref=e1243]:
+                        - link "Celulares e Telefones" [ref=e1244] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/celulares-e-telefones#c_id=/home/categories/element&c_category_id=MLB1051&c_uid=c690ec7f-1db9-47e4-81a4-a2ceb78aff4d
+                    - generic [ref=e1245]:
+                      - img [ref=e1247]
+                      - paragraph [ref=e1249]:
+                        - link "Calçados, Roupas e Bolsas" [ref=e1250] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/calcados-roupas-e-bolsas?gender=female#c_id=/home/categories/element&c_category_id=MLB1430&c_uid=abde7a1a-a9b6-4181-ac1b-1dba87ffc062
+                    - generic [ref=e1251]:
+                      - img [ref=e1253]
+                      - paragraph [ref=e1255]:
+                        - link "Informática" [ref=e1256] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/informatica#c_id=/home/categories/element&c_category_id=MLB1648&c_uid=5bf13292-8cc4-4b0b-9ed3-f4094735e08c
+                - group "3 de 11" [ref=e1257]:
+                  - generic [ref=e1258]:
+                    - generic [ref=e1259]:
+                      - img [ref=e1261]
+                      - paragraph [ref=e1263]:
+                        - link "Eletrodomésticos" [ref=e1264] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/eletrodomesticos#c_id=/home/categories/element&c_category_id=MLB5726&c_uid=76d7f6cd-ef9b-4ec6-b177-975c1b19a2e5
+                    - generic [ref=e1265]:
+                      - img [ref=e1267]
+                      - paragraph [ref=e1269]:
+                        - link "Esportes e Fitness" [ref=e1270] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/esportes-e-fitness#c_id=/home/categories/element&c_category_id=MLB1276&c_uid=bd1992a5-5eac-4f8f-8609-ad2d7fd160ad
+                    - generic [ref=e1271]:
+                      - img [ref=e1273]
+                      - paragraph [ref=e1275]:
+                        - link "Imóveis" [ref=e1276] [cursor=pointer]:
+                          - /url: http://www.mercadolivre.com.br/imoveis/#c_id=/home/categories/element&c_category_id=MLB1459&c_uid=44e48cd1-e808-4c5b-a1b9-efe8f3b67d71
+                - group "4 de 11" [ref=e1277]:
+                  - generic [ref=e1278]:
+                    - generic [ref=e1279]:
+                      - img [ref=e1281]
+                      - paragraph [ref=e1283]:
+                        - link "Ferramentas" [ref=e1284] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/ferramentas#c_id=/home/categories/element&c_category_id=MLB263532&c_uid=a190348d-548d-437b-b140-d9b31be5f0c7
+                    - generic [ref=e1285]:
+                      - img [ref=e1287]
+                      - paragraph [ref=e1289]:
+                        - link "Beleza e Cuidado Pessoal" [ref=e1290] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/beleza-e-cuidado-pessoal#c_id=/home/categories/element&c_category_id=MLB1246&c_uid=5326e998-62d9-4968-aede-0b2e5dc1bb75
+                    - generic [ref=e1291]:
+                      - img [ref=e1293]
+                      - paragraph [ref=e1295]:
+                        - link "Eletrônicos, Áudio e Vídeo" [ref=e1296] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/eletronicos-audio-e-video#c_id=/home/categories/element&c_category_id=MLB1000&c_uid=3e50877d-3253-40ce-91ca-9d4c08f90ec9
+                - group [ref=e1297]:
+                  - generic [ref=e1298]:
+                    - generic [ref=e1299]:
+                      - img [ref=e1301]
+                      - paragraph [ref=e1303]:
+                        - link [ref=e1304] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/agro#c_id=/home/categories/element&c_category_id=MLB271599&c_uid=25a89511-0826-48bb-82fe-81639d87a197
+                          - text: Agro
+                    - generic [ref=e1305]:
+                      - img [ref=e1307]
+                      - paragraph [ref=e1309]:
+                        - link [ref=e1310] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/alimentos-e-bebidas#c_id=/home/categories/element&c_category_id=MLB1403&c_uid=11a2972e-4965-43cf-88f4-bb90145a9ec1
+                          - text: Alimentos e Bebidas
+                    - generic [ref=e1311]:
+                      - img [ref=e1313]
+                      - paragraph [ref=e1315]:
+                        - link [ref=e1316] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/antiguidades-e-colecoes#c_id=/home/categories/element&c_category_id=MLB1367&c_uid=88ffcbd9-0320-4341-b23a-df24c008259f
+                          - text: Antiguidades e Coleções
+                - group [ref=e1317]:
+                  - generic [ref=e1318]:
+                    - generic [ref=e1319]:
+                      - img [ref=e1321]
+                      - paragraph [ref=e1323]:
+                        - link [ref=e1324] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/arte-papelaria-e-armarinho#c_id=/home/categories/element&c_category_id=MLB1368&c_uid=384a3d79-f7db-4f14-9695-7ad9abbeb3ad
+                          - text: Arte, Papelaria e Armarinho
+                    - generic [ref=e1325]:
+                      - img [ref=e1327]
+                      - paragraph [ref=e1329]:
+                        - link [ref=e1330] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/bebes#c_id=/home/categories/element&c_category_id=MLB1384&c_uid=d5de6477-6446-426b-82bd-fa5350eb4e13
+                          - text: Bebês
+                    - generic [ref=e1331]:
+                      - img [ref=e1333]
+                      - paragraph [ref=e1335]:
+                        - link [ref=e1336] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/brinquedos-e-hobbies#c_id=/home/categories/element&c_category_id=MLB1132&c_uid=484397ed-cb0c-40ec-b5fb-1c6815ec13dc
+                          - text: Brinquedos e Hobbies
+                - group [ref=e1337]:
+                  - generic [ref=e1338]:
+                    - generic [ref=e1339]:
+                      - img [ref=e1341]
+                      - paragraph [ref=e1343]:
+                        - link [ref=e1344] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/construcao#c_id=/home/categories/element&c_category_id=MLB1500&c_uid=48651a9a-c4a3-4af7-8278-970f116b78fd
+                          - text: Construção
+                    - generic [ref=e1345]:
+                      - img [ref=e1347]
+                      - paragraph [ref=e1349]:
+                        - link [ref=e1350] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/cameras-e-acessorios#c_id=/home/categories/element&c_category_id=MLB1039&c_uid=00072fd3-f296-46b0-816c-afedadbb7639
+                          - text: Câmeras e Acessórios
+                    - generic [ref=e1351]:
+                      - img [ref=e1353]
+                      - paragraph [ref=e1355]:
+                        - link [ref=e1356] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/festas-e-lembrancinhas#c_id=/home/categories/element&c_category_id=MLB12404&c_uid=2d419846-39ac-4c06-affd-f9ac219e3ac5
+                          - text: Festas e Lembrancinhas
+                - group [ref=e1357]:
+                  - generic [ref=e1358]:
+                    - generic [ref=e1359]:
+                      - img [ref=e1361]
+                      - paragraph [ref=e1363]:
+                        - link [ref=e1364] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/games#c_id=/home/categories/element&c_category_id=MLB1144&c_uid=4aa07b92-dd2b-4652-bcbd-135fa103adcf
+                          - text: Games
+                    - generic [ref=e1365]:
+                      - img [ref=e1367]
+                      - paragraph [ref=e1369]:
+                        - link [ref=e1370] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/industria-e-comercio#c_id=/home/categories/element&c_category_id=MLB1499&c_uid=9bdea9fc-e8b3-4710-9298-89859c1d6d77
+                          - text: Indústria e Comércio
+                    - generic [ref=e1371]:
+                      - img [ref=e1373]
+                      - paragraph [ref=e1375]:
+                        - link [ref=e1376] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/ingressos#c_id=/home/categories/element&c_category_id=MLB218519&c_uid=1cac9fe9-c676-4b55-97be-47cbc4992f3b
+                          - text: Ingressos
+                - group [ref=e1377]:
+                  - generic [ref=e1378]:
+                    - generic [ref=e1379]:
+                      - img [ref=e1381]
+                      - paragraph [ref=e1383]:
+                        - link [ref=e1384] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/instrumentos-musicais#c_id=/home/categories/element&c_category_id=MLB1182&c_uid=ec0dfa66-e12e-4abe-bee9-87640a0e5195
+                          - text: Instrumentos Musicais
+                    - generic [ref=e1385]:
+                      - img [ref=e1387]
+                      - paragraph [ref=e1389]:
+                        - link [ref=e1390] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/joias-e-relogios#c_id=/home/categories/element&c_category_id=MLB3937&c_uid=9435e1ad-d3cd-4fb6-9a3c-2f24d97c336f
+                          - text: Joias e Relógios
+                    - generic [ref=e1391]:
+                      - img [ref=e1393]
+                      - paragraph [ref=e1395]:
+                        - link [ref=e1396] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/livros-revistas-e-comics#c_id=/home/categories/element&c_category_id=MLB1196&c_uid=db614637-3e22-4409-b2ec-a9b0fac59f8e
+                          - text: Livros, Revistas e Comics
+                - group [ref=e1397]:
+                  - generic [ref=e1398]:
+                    - generic [ref=e1399]:
+                      - img [ref=e1401]
+                      - paragraph [ref=e1403]:
+                        - link [ref=e1404] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/musica-filmes-e-seriados#c_id=/home/categories/element&c_category_id=MLB1168&c_uid=734b27a2-d86e-425f-9b24-d52cecb2b8f7
+                          - text: Música, Filmes e Seriados
+                    - generic [ref=e1405]:
+                      - img [ref=e1407]
+                      - paragraph [ref=e1409]:
+                        - link [ref=e1410] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/animais#c_id=/home/categories/element&c_category_id=MLB1071&c_uid=652813da-63fc-425a-ab36-e1157deb95f6
+                          - text: Pet Shop
+                    - generic [ref=e1411]:
+                      - img [ref=e1413]
+                      - paragraph [ref=e1415]:
+                        - link [ref=e1416] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/saude#c_id=/home/categories/element&c_category_id=MLB264586&c_uid=c8f60b97-0bcd-4229-87d4-6ec585e74234
+                          - text: Saúde
+                - group [ref=e1417]:
+                  - generic [ref=e1418]:
+                    - generic [ref=e1419]:
+                      - img [ref=e1421]
+                      - paragraph [ref=e1423]:
+                        - link [ref=e1424] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/servicos#c_id=/home/categories/element&c_category_id=MLB1540&c_uid=fcd61bd3-b513-4a2c-b8c2-0ec1344227d6
+                          - text: Serviços
+                    - generic [ref=e1425]:
+                      - img [ref=e1427]
+                      - paragraph [ref=e1429]:
+                        - link [ref=e1430] [cursor=pointer]:
+                          - /url: https://eletronicos.mercadolivre.com.br/televisores#c_id=/home/categories/element&c_category_id=MLB1002&c_uid=f573cdd4-695e-46db-bf23-9a8171cebbdc
+                          - text: Televisores
+                    - generic [ref=e1431]:
+                      - img [ref=e1433]
+                      - paragraph [ref=e1435]:
+                        - link [ref=e1436] [cursor=pointer]:
+                          - /url: https://www.mercadolivre.com.br/c/mais-categorias#c_id=/home/categories/element&c_category_id=MLB1953&c_uid=1be269b3-7539-4100-a981-d263f8c1028b
+                          - text: Mais Categorias
+              - button "Seguinte" [ref=e1437] [cursor=pointer]:
+                - img [ref=e1438]
+        - generic [ref=e1442]:
+          - generic:
+            - generic [ref=e1443]:
+              - heading "Escolha como pagar" [level=2] [ref=e1445]
+              - paragraph [ref=e1446]: Com Mercado Pago, você paga com cartão, boleto ou Pix. Você também pode pagar em até 12x sem cartão com a Linha de Crédito.
+              - link "Como pagar com Mercado Pago" [ref=e1447] [cursor=pointer]:
+                - /url: https://www.mercadolivre.com.br/pagar-online-com-mercadopago/
+            - generic [ref=e1448]:
+              - heading "Frete grátis por ser sua primeira compra" [level=2] [ref=e1450]
+              - paragraph [ref=e1451]: Aproveite este benefício em milhões de produtos.
+            - generic [ref=e1452]:
+              - heading "Segurança, do início ao fim" [level=2] [ref=e1454]
+              - paragraph [ref=e1455]: Você não gostou do que comprou? Devolva! No Mercado Livre não há nada que você não possa fazer, porque você está sempre protegido.
+              - link "Como te protegemos" [ref=e1456] [cursor=pointer]:
+                - /url: https://www.mercadolivre.com.br/compra-garantida
+  - generic [ref=e1459]:
+    - heading "Termos mais procurados" [level=3] [ref=e1460]
+    - list [ref=e1461]:
+      - listitem [ref=e1462]:
+        - link "apple watch" [ref=e1463] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/apple-watch
+        - text: "-"
+      - listitem [ref=e1464]:
+        - link "ar condicionado" [ref=e1465] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/ar-condicionado-inverterr
+        - text: "-"
+      - listitem [ref=e1466]:
+        - link "ar condicionado inverter" [ref=e1467] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/ar-condicionado-inverter
+        - text: "-"
+      - listitem [ref=e1468]:
+        - link "bicicletas" [ref=e1469] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/bicicleta
+        - text: "-"
+      - listitem [ref=e1470]:
+        - link "cafeteira" [ref=e1471] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/cafeteira
+        - text: "-"
+      - listitem [ref=e1472]:
+        - link "carros novos" [ref=e1473] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/veiculos/carros-caminhonetes/catalogo/
+        - text: "-"
+      - listitem [ref=e1474]:
+        - link "computador" [ref=e1475] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/computador
+        - text: "-"
+      - listitem [ref=e1476]:
+        - link "fogao 4 boca" [ref=e1477] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/fogao-4-bocas
+        - text: "-"
+      - listitem [ref=e1478]:
+        - link "fone de ouvido bluetooth" [ref=e1479] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/fone-de-ouvido-bluetooth
+        - text: "-"
+      - listitem [ref=e1480]:
+        - link "freezer vertical" [ref=e1481] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/freezer-vertical
+        - text: "-"
+      - listitem [ref=e1482]:
+        - link "geladeira frost free" [ref=e1483] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/geladeira-frost-free
+        - text: "-"
+      - listitem [ref=e1484]:
+        - link "guarda roupa casal" [ref=e1485] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/guarda-roupa-casal
+        - text: "-"
+      - listitem [ref=e1486]:
+        - link "guarda roupa solteiro" [ref=e1487] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/guarda-roupa-solteiro
+        - text: "-"
+      - listitem [ref=e1488]:
+        - link "ipad" [ref=e1489] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/ipad
+        - text: "-"
+      - listitem [ref=e1490]:
+        - link "iphone" [ref=e1491] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/iphone
+        - text: "-"
+      - listitem [ref=e1492]:
+        - link "iphone 8 plus" [ref=e1493] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/iphone-8-plus
+        - text: "-"
+      - listitem [ref=e1494]:
+        - link "iphone 11" [ref=e1495] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/iphone-11
+        - text: "-"
+      - listitem [ref=e1496]:
+        - link "iphone 13" [ref=e1497] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/iphone-13
+        - text: "-"
+      - listitem [ref=e1498]:
+        - link "iphone 13 pro max" [ref=e1499] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/iphone-13-pro-max
+        - text: "-"
+      - listitem [ref=e1500]:
+        - link "iphone 14" [ref=e1501] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/iphone-14
+        - text: "-"
+      - listitem [ref=e1502]:
+        - link "iphone 14 pro" [ref=e1503] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/iphone-14-pro
+        - text: "-"
+      - listitem [ref=e1504]:
+        - link "iphone 14 pro max" [ref=e1505] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/iphone-14-pro-max
+        - text: "-"
+      - listitem [ref=e1506]:
+        - link "iphone 15" [ref=e1507] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/iphone-15
+        - text: "-"
+      - listitem [ref=e1508]:
+        - link "iphone 16" [ref=e1509] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/iphone-16
+        - text: "-"
+      - listitem [ref=e1510]:
+        - link "iphone 16 plus" [ref=e1511] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/iphone-16-plus
+        - text: "-"
+      - listitem [ref=e1512]:
+        - link "iphone 16 pro" [ref=e1513] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/iphone-16-pro
+        - text: "-"
+      - listitem [ref=e1514]:
+        - link "iphone 16 pro max" [ref=e1515] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/iphone-16-pro-max
+        - text: "-"
+      - listitem [ref=e1516]:
+        - link "jbl" [ref=e1517] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/jbl
+        - text: "-"
+      - listitem [ref=e1518]:
+        - link "microondas" [ref=e1519] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/microondas
+        - text: "-"
+      - listitem [ref=e1520]:
+        - link "monitor" [ref=e1521] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/monitor
+        - text: "-"
+      - listitem [ref=e1522]:
+        - link "motorola" [ref=e1523] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/motorola
+        - text: "-"
+      - listitem [ref=e1524]:
+        - link "nintendo switch" [ref=e1525] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/nintendo-switch
+        - text: "-"
+      - listitem [ref=e1526]:
+        - link "notebook" [ref=e1527] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/notebook
+        - text: "-"
+      - listitem [ref=e1528]:
+        - link "notebook dell" [ref=e1529] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/notebook-dell
+        - text: "-"
+      - listitem [ref=e1530]:
+        - link "painel para tv" [ref=e1531] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/painel-tv
+        - text: "-"
+      - listitem [ref=e1532]:
+        - link "penteadeira" [ref=e1533] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/penteadeira
+        - text: "-"
+      - listitem [ref=e1534]:
+        - link "poco x5 pro" [ref=e1535] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/poco-x5-pro
+        - text: "-"
+      - listitem [ref=e1536]:
+        - link "ps4" [ref=e1537] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/ps4
+        - text: "-"
+      - listitem [ref=e1538]:
+        - link "ps5" [ref=e1539] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/ps5
+        - text: "-"
+      - listitem [ref=e1540]:
+        - link "redmi note 12" [ref=e1541] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/redmi-note-12
+        - text: "-"
+      - listitem [ref=e1542]:
+        - link "s22 ultra" [ref=e1543] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/s22-ultra
+        - text: "-"
+      - listitem [ref=e1544]:
+        - link "samsung a54" [ref=e1545] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/samsung-a54
+        - text: "-"
+      - listitem [ref=e1546]:
+        - link "samsung s23" [ref=e1547] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/samsung-galaxy-s23
+        - text: "-"
+      - listitem [ref=e1548]:
+        - link "smartwatch" [ref=e1549] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/smartwatch
+        - text: "-"
+      - listitem [ref=e1550]:
+        - link "tablets samsung" [ref=e1551] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/tablets-samsung
+        - text: "-"
+      - listitem [ref=e1552]:
+        - link "tenis masculino" [ref=e1553] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/tenis-masculino
+        - text: "-"
+      - listitem [ref=e1554]:
+        - link "tennis feminino" [ref=e1555] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/tenis-feminino
+        - text: "-"
+      - listitem [ref=e1556]:
+        - link "tv 32 polegadas" [ref=e1557] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/tv-32-polegadas
+        - text: "-"
+      - listitem [ref=e1558]:
+        - link "tv 50 4k" [ref=e1559] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/tv-50-polegadas-4k
+        - text: "-"
+      - listitem [ref=e1560]:
+        - link "tv 50 polegadas" [ref=e1561] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/tv-50-polegadas
+        - text: "-"
+      - listitem [ref=e1562]:
+        - link "ventilador" [ref=e1563] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/ventilador
+        - text: "-"
+      - listitem [ref=e1564]:
+        - link "xbox" [ref=e1565] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/xbox
+        - text: "-"
+      - listitem [ref=e1566]:
+        - link "xbox series x" [ref=e1567] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/xbox-series-x
+        - text: "-"
+      - listitem [ref=e1568]:
+        - link "xdj" [ref=e1569] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/xdj
+        - text: "-"
+      - listitem [ref=e1570]:
+        - link "xiaomi" [ref=e1571] [cursor=pointer]:
+          - /url: https://lista.mercadolivre.com.br/celular-xiaomi
+        - text: "-"
+      - listitem [ref=e1572]:
+        - link "comparador de celulares" [ref=e1573] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/compare/celulares/
+  - generic [ref=e1576]:
+    - heading "Pesquise produto por letra inicial" [level=3] [ref=e1577]
+    - list "Pesquise produto por letra inicial" [ref=e1579]:
+      - listitem [ref=e1580]:
+        - link "Pesquise produto por letra inicial A" [ref=e1581] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/A/1
+          - text: A
+      - listitem [ref=e1582]: "-"
+      - listitem [ref=e1583]:
+        - link "Pesquise produto por letra inicial B" [ref=e1584] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/B/1
+          - text: B
+      - listitem [ref=e1585]: "-"
+      - listitem [ref=e1586]:
+        - link "Pesquise produto por letra inicial C" [ref=e1587] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/C/1
+          - text: C
+      - listitem [ref=e1588]: "-"
+      - listitem [ref=e1589]:
+        - link "Pesquise produto por letra inicial D" [ref=e1590] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/D/1
+          - text: D
+      - listitem [ref=e1591]: "-"
+      - listitem [ref=e1592]:
+        - link "Pesquise produto por letra inicial E" [ref=e1593] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/E/1
+          - text: E
+      - listitem [ref=e1594]: "-"
+      - listitem [ref=e1595]:
+        - link "Pesquise produto por letra inicial F" [ref=e1596] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/F/1
+          - text: F
+      - listitem [ref=e1597]: "-"
+      - listitem [ref=e1598]:
+        - link "Pesquise produto por letra inicial G" [ref=e1599] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/G/1
+          - text: G
+      - listitem [ref=e1600]: "-"
+      - listitem [ref=e1601]:
+        - link "Pesquise produto por letra inicial H" [ref=e1602] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/H/1
+          - text: H
+      - listitem [ref=e1603]: "-"
+      - listitem [ref=e1604]:
+        - link "Pesquise produto por letra inicial I" [ref=e1605] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/I/1
+          - text: I
+      - listitem [ref=e1606]: "-"
+      - listitem [ref=e1607]:
+        - link "Pesquise produto por letra inicial J" [ref=e1608] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/J/1
+          - text: J
+      - listitem [ref=e1609]: "-"
+      - listitem [ref=e1610]:
+        - link "Pesquise produto por letra inicial K" [ref=e1611] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/K/1
+          - text: K
+      - listitem [ref=e1612]: "-"
+      - listitem [ref=e1613]:
+        - link "Pesquise produto por letra inicial L" [ref=e1614] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/L/1
+          - text: L
+      - listitem [ref=e1615]: "-"
+      - listitem [ref=e1616]:
+        - link "Pesquise produto por letra inicial M" [ref=e1617] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/M/1
+          - text: M
+      - listitem [ref=e1618]: "-"
+      - listitem [ref=e1619]:
+        - link "Pesquise produto por letra inicial N" [ref=e1620] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/N/1
+          - text: "N"
+      - listitem [ref=e1621]: "-"
+      - listitem [ref=e1622]:
+        - link "Pesquise produto por letra inicial O" [ref=e1623] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/O/1
+          - text: O
+      - listitem [ref=e1624]: "-"
+      - listitem [ref=e1625]:
+        - link "Pesquise produto por letra inicial P" [ref=e1626] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/P/1
+          - text: P
+      - listitem [ref=e1627]: "-"
+      - listitem [ref=e1628]:
+        - link "Pesquise produto por letra inicial Q" [ref=e1629] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/Q/1
+          - text: Q
+      - listitem [ref=e1630]: "-"
+      - listitem [ref=e1631]:
+        - link "Pesquise produto por letra inicial R" [ref=e1632] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/R/1
+          - text: R
+      - listitem [ref=e1633]: "-"
+      - listitem [ref=e1634]:
+        - link "Pesquise produto por letra inicial S" [ref=e1635] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/S/1
+          - text: S
+      - listitem [ref=e1636]: "-"
+      - listitem [ref=e1637]:
+        - link "Pesquise produto por letra inicial T" [ref=e1638] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/T/1
+          - text: T
+      - listitem [ref=e1639]: "-"
+      - listitem [ref=e1640]:
+        - link "Pesquise produto por letra inicial U" [ref=e1641] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/U/1
+          - text: U
+      - listitem [ref=e1642]: "-"
+      - listitem [ref=e1643]:
+        - link "Pesquise produto por letra inicial V" [ref=e1644] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/V/1
+          - text: V
+      - listitem [ref=e1645]: "-"
+      - listitem [ref=e1646]:
+        - link "Pesquise produto por letra inicial W" [ref=e1647] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/W/1
+          - text: W
+      - listitem [ref=e1648]: "-"
+      - listitem [ref=e1649]:
+        - link "Pesquise produto por letra inicial X" [ref=e1650] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/X/1
+          - text: X
+      - listitem [ref=e1651]: "-"
+      - listitem [ref=e1652]:
+        - link "Pesquise produto por letra inicial Y" [ref=e1653] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/Y/1
+          - text: "Y"
+      - listitem [ref=e1654]: "-"
+      - listitem [ref=e1655]:
+        - link "Pesquise produto por letra inicial Z" [ref=e1656] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/glossary/Z/1
+          - text: Z
+  - generic:
+    - heading "Mais informações " [level=2]:
+      - button "Mais informações " [ref=e1657] [cursor=pointer]:
+        - text: Mais informações
+        - generic [ref=e1658]: 
+  - contentinfo [ref=e1659]:
+    - generic [ref=e1661]:
+      - generic [ref=e1662]:
+        - generic [ref=e1663]: Copyright © 1999-2026 Ebazar.com.br LTDA.
+        - navigation [ref=e1664]:
+          - list [ref=e1665]:
+            - listitem [ref=e1666]:
+              - link "Trabalhe conosco" [ref=e1667] [cursor=pointer]:
+                - /url: https://careers-meli.mercadolibre.com/pt?utm_campaign=site-mlb&utm_source=mercadolibre&utm_medium=mercadolibre
+            - listitem [ref=e1668]:
+              - link "Termos e condições" [ref=e1669] [cursor=pointer]:
+                - /url: https://www.mercadolivre.com.br/ajuda/991
+            - listitem [ref=e1670]:
+              - link "Promoções" [ref=e1671] [cursor=pointer]:
+                - /url: https://www.mercadolivre.com.br/l/promocoes
+            - listitem [ref=e1672]:
+              - link "Como cuidamos da sua privacidade" [ref=e1673] [cursor=pointer]:
+                - /url: https://www.mercadolivre.com.br/privacidade
+            - listitem [ref=e1674]:
+              - link "Acessibilidade" [ref=e1675] [cursor=pointer]:
+                - /url: https://www.mercadolivre.com.br/acessibilidade
+            - listitem [ref=e1676]:
+              - link "Contato" [ref=e1677] [cursor=pointer]:
+                - /url: https://www.mercadolivre.com.br/ajuda
+            - listitem [ref=e1678]:
+              - link "Informações sobre seguros" [ref=e1679] [cursor=pointer]:
+                - /url: https://www.mercadolivre.com.br/ajuda/23303
+            - listitem [ref=e1680]:
+              - link "Programa de Afiliados" [ref=e1681] [cursor=pointer]:
+                - /url: https://www.mercadolivre.com.br/l/afiliados-home
+      - paragraph [ref=e1682]: CNPJ n.º 03.007.331/0001-41 / Av. das Nações Unidas, nº 3.003, Bonfim, Osasco/SP - CEP 06233-903 - empresa do grupo Mercado Livre.
+    - link "Mercado Livre" [ref=e1683] [cursor=pointer]:
+      - /url: https://hp.mercadolibre.com/?p=ML&s=MLB&d=desktop
+  - region [ref=e1684]:
+    - generic [ref=e1685]:
+      - paragraph [ref=e1687]:
+        - text: Usamos cookies para melhorar sua experiência no Mercado Livre. Consulte mais informações na nossa
+        - link "Central de privacidade." [ref=e1688] [cursor=pointer]:
+          - /url: https://www.mercadolivre.com.br/privacidade#tech-and-cookies
+      - generic [ref=e1689]:
+        - button "Aceitar cookies" [ref=e1690] [cursor=pointer]
+        - button "Configurar cookies" [ref=e1691] [cursor=pointer]
